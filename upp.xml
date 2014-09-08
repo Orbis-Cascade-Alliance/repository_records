@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:upp">
+      <foaf:name>University of Puget Sound Archives &amp; Special Collections</foaf:name>
+      <foaf:homepage rdf:resource="http://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/explore-the-library/university-archives/"/>
+      <vcard:hasEmail rdf:resource="mailto:archives@pugetsound.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>University of Puget Sound Archives &amp; Special Collections</vcard:street-address>
+            <vcard:street-address>Collins Memorial Library</vcard:street-address>
+            <vcard:street-address>1500 N. Warner St.</vcard:street-address>
+            <vcard:street-address>CMB1021</vcard:street-address>
+            <vcard:street-address>Tacoma, WA</vcard:street-address>
+            <vcard:postal-code>98416</vcard:postal-code>
+            <vcard:locality>-1021</vcard:locality>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+2538792669"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <nwda:visitation>Students, faculty, visiting scholars, and members of the public with research inquiries are welcome to consult the Archives &amp; Special Collections. During the semester the Archives &amp; Special Collections are open for drop-in visits Wednesdays 1:00 p.m. – 5:00 p.m. and Thursdays 9:00 a.m. – 11:30 a.m. and all other times.</nwda:visitation>
+      <nwda:facsimile>Please contact the University of Puget Sound Archives &amp; Special Collections for information on copies and fees.</nwda:facsimile>
+      <dcterms:description>The Archives &amp; Special Collections collects, preserves, and makes available primary source material for the research and teaching use of our students, faculty, and staff. In addition to documenting life at the University, the collections represent regional, national and international issues. The collections include institutional records, manuscripts, rare books, oral histories, photographs, and artists' books.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

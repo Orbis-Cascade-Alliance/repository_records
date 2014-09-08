@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:oru">
+      <foaf:name>University of Oregon. Libraries. Special Collections and University Archives.</foaf:name>
+      <foaf:homepage rdf:resource="http://library.uoregon.edu/speccoll/index.html"/>
+      <vcard:hasEmail rdf:resource="mailto:spcarref@uoregon.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>UO Libraries--SPC, 1299</vcard:street-address>
+            <vcard:street-address>University of Oregon</vcard:street-address>
+            <vcard:locality>Eugene OR</vcard:locality>
+            <vcard:postal-code>97403</vcard:postal-code>
+            <vcard:locality>-1299</vcard:locality>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+5413463068"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+5413463485 attn SCUA"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation>The Special Collections &amp; University Archives Paulson Reading Room hours can be found on our Google calendar. Anyone with a research interest – students, faculty, staff, or the general public – may use the collections. Not all collections are housed on-site, please see our website for more information on access to collections.</nwda:visitation>
+      <nwda:facsimile>The Special Collections &amp; University Archives provides photocopy and scanning services for a fee. The Fees &amp; Rates Schedule for Special Collections Services is available online: http://library.uoregon.edu/speccoll/rates.html. Information about high-resolution digital images of materials is available here: http://library.uoregon.edu/permissions. Under limited circumstances, we allow researchers to use their own cameras to photograph certain materials.</nwda:facsimile>
+      <dcterms:description>Special Collections and University Archives hold over 3,000 collections, constituting more than a million items ranging from medieval codices and rare books to literary and historical manuscripts, university archives, original art, photographs, architectural drawings, and ephemera. The department preserves the political, social, economic, and literary history of the United States with an emphasis on regional history, and provides curriculum support for on campus researchers, and assistance to amateur and scholarly researchers in many fields.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

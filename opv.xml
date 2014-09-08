@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:opv">
+      <foaf:name>Archives and Special Collections, Pacific Lutheran University</foaf:name>
+      <foaf:homepage rdf:resource="http://www.plu.edu/archives"/>
+      <vcard:hasEmail rdf:resource="mailto:archives@plu.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Archives and Special Collections</vcard:street-address>
+            <vcard:street-address>Pacific Lutheran University</vcard:street-address>
+            <vcard:street-address>12180 Park Avenue South</vcard:street-address>
+            <vcard:locality>Tacoma, Washington</vcard:locality>
+            <vcard:postal-code>98447</vcard:postal-code>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+2535357586"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+2535357315"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation>Willamette University Archives and Special Collections is located on the 2nd floor of the Mark O. Hatfield Library and is open 9:00 - noon; 1:00 - 4:00 Monday - Friday, with the exception of Willamette University holidays. The Archives and Special Collections welcomes users from the Willamette community as well as members of the public.</nwda:visitation>
+      <nwda:facsimile>he Archives and special Collections provides photocopy and scanning services for a fee. Photocopies are $0.25/image, and tif scans are $1.00/image.</nwda:facsimile>
+      <dcterms:description>The Archives and Special Collections department at Pacific Lutheran University is comprised of four different entities: The University Archives; The Scandinavian Immigrant Experience Collection; The ELCA Region I Archives and the Nisqually Plains Collection. The University Archives collects, maintains and makes available university records from its founding in 1890. The Scandinavian Immigrant Experience Collection contains materials relating to Scandinavian immigrants who settled in the United States, particularly in the Pacific Northwest. The Evangelical Lutheran Church in America (ELCA) Region I Archives contains records documenting the history of the Lutheran Church in the Northwest including Alaska, Idaho, Montana, Oregon and Washington. The Nisqually Plains Collections focuses on the regional history of the Pacific Northwest with particular emphasis on Western Washington</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

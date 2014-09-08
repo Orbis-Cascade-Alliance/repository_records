@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:oip">
+      <foaf:name>Boise State University Library. Special Collections and Archives.</foaf:name>
+      <foaf:homepage rdf:resource="http://library.boisestate.edu/special/"/>
+      <vcard:hasEmail rdf:resource="mailto:archives@boisestate.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Special Collections and Archives</vcard:street-address>
+            <vcard:street-address>1910 University Drive</vcard:street-address>
+            <vcard:locality>Boise ID</vcard:locality>
+            <vcard:postal-code>83725</vcard:postal-code>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+2084263958"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+2083342111"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation rdf:resource="http://library.boisestate.edu/special/usingthecollections.php"/>
+      <nwda:facsimile rdf:resource="http://library.boisestate.edu/special/usingthecollections.php"/>
+      <dcterms:description>Boise State University Special Collections and Archives in Albertsons Library holds more than 300 manuscript collections of letters, journals, diaries, scrapbooks, photographs, and other primary-source materials that document Idaho history, particularly the Boise and Southwest Idaho, Idaho’s past and present political and environmental history, and the literary history of the state. Research topics include politics, environment, Basque culture, filmmaking, literature, ethnicity, gender, music, geosciences, and many others.The University Archives is the repository for university publications and the official records of the President, Faculty Senate, ASBSU, administrative offices, and academic departments. Materials include the student newspaper, university catalogs, budgets, yearbooks, photographs, audio and video, books, posters, and other ephemera. Research topics include faculty, students, campus life, buildings, academic departments, athletics, student organizations, and university departments.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:uus">
+      <foaf:name>Utah state University. Merrill-Cazier Library. Special Collections and Archives Division </foaf:name>
+      <foaf:homepage rdf:resource="https://library.usu.edu/specol"/>
+      <vcard:hasEmail rdf:resource="mailto:scweb@usu.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Special Collections and Archives</vcard:street-address>
+            <vcard:street-address>Merrill-Cazier Library</vcard:street-address>
+            <vcard:street-address>Utah State University</vcard:street-address>
+            <vcard:locality>Logan, UT</vcard:locality>
+            <vcard:postal-code>84322</vcard:postal-code>
+            <vcard:locality>-3000</vcard:locality>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+4357972663"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+4357972880"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation rdf:resource="https://library.usu.edu/specol"/>
+      <nwda:facsimile>The Special Collections &amp; Archives division provides photocopy and scanning services for a fee. Information about copying policies and links to forms can be found online: https://library.usu.edu/specol/using/copies.php Information about reproduction for research and publication purposes can be found online: https://library.usu.edu/specol/using/permissions.pdf</nwda:facsimile>
+      <dcterms:description>The Division of Special Collections and Archives preserves and makes available the University’s unique collections of archives, photographs, manuscripts and books owned by the Utah State University Libraries. Holdings include Mormon and Utah history including the papers of historians Leonard J. Arrington and S. George Ellsworth; western environmental and agricultural history; the history of Utah State University; western literature including the papers of Jack London; Beat and modern poetry; and the Fife Folklore Archives.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

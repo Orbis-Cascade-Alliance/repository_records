@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:mtg">
+      <foaf:name>University of Montana.  Mansfield Library.  Archives and Special Collections.</foaf:name>
+      <foaf:homepage rdf:resource="http://www.lib.umt.edu/asc"/>
+      <vcard:hasEmail rdf:resource="mailto:library.archives@umontana.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Archives and Special Collections</vcard:street-address>
+            <vcard:street-address>Maureen and Mike Mansfield Library</vcard:street-address>
+            <vcard:street-address>The University of Montana</vcard:street-address>
+            <vcard:street-address>32 Campus Dr.</vcard:street-address>
+            <vcard:street-address>#9936</vcard:street-address>
+            <vcard:street-address>Missoula, MT</vcard:street-address>
+            <vcard:postal-code>59812</vcard:postal-code>
+            <vcard:locality>-9936</vcard:locality>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+4062432053"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+4062434067"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation rdf:resource="http://www.lib.umt.edu/asc/visit"/>
+      <nwda:facsimile>All photocopying is performed by Archives &amp; Special Collections employees. Please note that reproduction requests may be denied for items considered too fragile to copy without causing damage to the original. Download our photocopy order form. Digital cameras may be used to take pictures of most Archives &amp; Special Collections materials for personal use, study, or classroom use. The following photocopy fees apply: Single-sided black and white:$0.25/page Double-sided black and white:$0.35/page Color copies:$1.00/page (up to an 11"" x 17"" page) Maps and architectural drawings (large format, black and white):$3.00/page Shipping fees: 1-10 pages-no charge 11-50 pages-$1.00 51-100 pages-$3.00 Add $1.50 for each additional 50 pages Ordering reproductions of photographs: Archives &amp; Special Collections provides reproductions of materials from our collections, including the photographs featured in our Digital Photo Project database. Reproductions will not have the Archives &amp; Special Collections band visible on the bottom of images viewed online. To see our reproduction prices or to order an image please use our Image reproduction order form or contact a staff member in Archives &amp; Special Collections.</nwda:facsimile>
+      <dcterms:description>The majority of Archives and Special Collections’ primary source materials help to document the people and activities of The University of Montana, Western Montana, and the region. Secondary sources in the department serve as important reference tools, enhancing understanding of local and regional history and facilitating use of primary sources. Our Montana Room holds over 7,000 regional and historic maps, 10,000 books, university and regional newspapers, Montana government documents, and city directories. In addition we have over 3000 oral history interviews, 1,000 archival and manuscript collections, and nearly 100,000 photographs.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

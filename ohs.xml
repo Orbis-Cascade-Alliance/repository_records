@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:ohs">
+      <foaf:name>Oregon Health &amp; Science University. Historical Collections &amp; Archives</foaf:name>
+      <foaf:homepage rdf:resource="http://www.ohsu.edu/xd/education/library/about/collections/historical-collections-archives/"/>
+      <vcard:hasEmail rdf:resource="mailto:homref@ohsu.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>OHSU Historical Collections &amp; Archives</vcard:street-address>
+            <vcard:street-address>Oregon Health &amp; Science University</vcard:street-address>
+            <vcard:street-address>3181 SW Sam Jackson Park Rd. - LIB</vcard:street-address>
+            <vcard:locality>Portland, OR</vcard:locality>
+            <vcard:postal-code>97239</vcard:postal-code>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+5034182287"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <nwda:visitation rdf:resource="http://www.ohsu.edu/xd/education/library/about/collections/historical-collections-archives/contact.cfm"/>
+      <nwda:facsimile rdf:resource="http://www.ohsu.edu/xd/education/library/about/collections/historical-collections-archives/about/index.cfm"/>
+      <dcterms:description>OHSU Historical Collections &amp; Archives holds collections pertaining to the history of the institution, and the history of health sciences education and practice in the Pacific Northwest.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

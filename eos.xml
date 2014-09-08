@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:">
+      <foaf:name>Eastern Oregon University. Historical Photographic Collections</foaf:name>
+      <foaf:homepage rdf:resource="http://library.eou.edu/collections/"/>
+      <vcard:hasEmail rdf:resource="mailto:pierce-archives@eou.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Pierce Library</vcard:street-address>
+            <vcard:street-address>Eastern Oregon University</vcard:street-address>
+            <vcard:locality>La Grande OR</vcard:locality>
+            <vcard:postal-code>97850</vcard:postal-code>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+5419623868"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <nwda:visitation rdf:resource="http://library.eou.edu/"/>
+      <nwda:facsimile rdf:resource="http://library.eou.edu/info/policies/Photograph_Reproduction_and_Use.htm"/>
+      <dcterms:description>The Fred Hill World War II Collection is a collection of WWII era negatives. Most of the collection occurs between 1943 and 1945. However, there are some earlier images ranging back to about 1940, and a few newer photos of the 17th Recon Squadron photo section reunions and the 5th Air Force Memorial Wall. A large number of these images were taken by Fred Hill himself. the Fred Hill Historical Photographs Collection This collection is comprised of copies of all kinds of historical images that were gathered by Fred Hill from a multitude of sources. The majority of the images depict interests and history related to Oregon. However, there are also some photos from other geographic areas included as well. The image dates range from the late 1800s to well into the 1900s. The EOU Historical Photographs Collection contains various photographs from the history of Eastern Oregon University. These begin with its first identity as Eastern Oregon Normal School from 1929-1939. Next came Eastern Oregon College of Education from 1939-1956. In 1956, ""of Education"" was dropped by the state, and it was simply Eastern Oregon College from then until 1973 when it became Eastern Oregon State College. It finally became Eastern Oregon University in 1997. However, currently the collection runs up until about 1995.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

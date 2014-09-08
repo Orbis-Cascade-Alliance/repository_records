@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:wtv">
+      <foaf:name>Whitworth University Archives</foaf:name>
+      <foaf:homepage rdf:resource="www.whitworth.edu/library/archives"/>
+      <vcard:hasEmail rdf:resource="mailto:jhauck@whitworth.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Whitworth University Archives</vcard:street-address>
+            <vcard:street-address>300 W. Hawthorne Road</vcard:street-address>
+            <vcard:locality>Spokane, WA</vcard:locality>
+            <vcard:postal-code>99251</vcard:postal-code>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+5097774200"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <nwda:visitation rdf:resource="https://www.whitworth.edu/Library/Archives/Services.htm"/>
+      <nwda:facsimile rdf:resource="https://www.whitworth.edu/Library/Archives/Policies.htm"/>
+      <dcterms:description rdf:resource="https://www.whitworth.edu/Library/Archives/Collections.htm"/>
+   </arch:Archive>
+</rdf:RDF>

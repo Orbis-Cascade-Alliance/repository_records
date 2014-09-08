@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:uum">
+      <foaf:name> University of Utah. Libraries. Special Collections.</foaf:name>
+      <foaf:homepage rdf:resource="http://www.lib.utah.edu/collections/special-collections/index.php"/>
+      <vcard:hasEmail rdf:resource="mailto:paul.mogren@utah.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Special Collections,</vcard:street-address>
+            <vcard:street-address>J. Willard Marriott Library</vcard:street-address>
+            <vcard:street-address>University of Utah</vcard:street-address>
+            <vcard:street-address>295 South 1500 East</vcard:street-address>
+            <vcard:locality>Salt Lake City, UT</vcard:locality>
+            <vcard:postal-code>84112</vcard:postal-code>
+            <vcard:locality>-0860</vcard:locality>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+8015818863"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <nwda:visitation>All collections held in Special Collections are available to the public. The department's finding aids are accessible online. Special Collections holdings do not circulate, often because of the rarity or value of the item, but primarily to ensure that researchers will have ready access to them. Professional librarians and archivists are available to assist users. The Special Collections Reading Room is open 8:00 AM - 6:00 PM Monday – Friday and 9:15 AM - 6:00 PM on Saturdays. These hours can change due to federal and state holidays or during semester breaks. For further information please review our current hours at http://www.lib.utah.edu/collections/special-collections/index.php</nwda:visitation>
+      <nwda:facsimile>Special Collections provides photocopy and scanning services for a fee. To request photocopies from the Manuscripts Division please call 801-585-3076. To request reproductions from the Multimedia Archives please call 801-585-3073. Reproduction order forms, fee schedules and permission to publish forms are available online: http://www.lib.utah.edu/collections/multimedia-archives/index.php</nwda:facsimile>
+      <dcterms:description>Special Collections, at the J. Willard Marriott Library, collects and preserves materials that require unusual care or special attention to their acquisition, processing, and patron use. The department's mission statement is to acquire and make available books, periodicals, documents, photographs, films, and original materials documenting the history of Utah, the Mormons, and the West, with the addition of the Middle East and the University of Utah.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

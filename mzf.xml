@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:mzf">
+      <foaf:name>Montana State University. Library. Merrill G Burlingame Special Collections</foaf:name>
+      <foaf:homepage rdf:resource="http://www.lib.montana.edu/archives/"/>
+      <vcard:hasEmail rdf:resource="mailto:spcoll@www.lib.montana.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Montana State University-Bozeman Library</vcard:street-address>
+            <vcard:street-address>Merrill G Burlingame Special Collections</vcard:street-address>
+            <vcard:street-address>P.O. Box 173320</vcard:street-address>
+            <vcard:locality>Bozeman, MT</vcard:locality>
+            <vcard:postal-code>59717</vcard:postal-code>
+            <vcard:locality>-3320</vcard:locality>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+4069944242"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+4069942851"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation>If interested in a research visit, please correspond using our departmental email at spcoll@www.lib.montana.edu</nwda:visitation>
+      <nwda:facsimile rdf:resource="http://www.lib.montana.edu/archives/copy.php"/>
+      <dcterms:description>The Merrill G. Burlingame Special Collections of the Montana State University Library is the location for finding comprehensive information on select subject areas. With a comfortable service area in the Burton K. Wheeler Reading Room on the second floor of Renne Library, Special Collections is committed to assembling primary and secondary scholarly materials on specific topics supporting MSU curricular and research needs. Areas of collecting emphasis for which finding aids are available are: - Montana Agriculture and Ranching - Montana Engineering and Architecture - Montana History - Montana Native Americans - Montana State University History - Prominent Montanans - Trout and Salmonids - U.S. Senator Burton K. Wheeler - Yellowstone National Park and the Yellowstone ecosystem.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

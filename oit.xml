@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:oit">
+      <foaf:name>Oregon Institute of Technology Libraries Digital Collections</foaf:name>
+      <foaf:homepage rdf:resource="www.oit.edu/libraries"/>
+      <vcard:hasEmail rdf:resource="mailto:libtech@oit.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Oregon Institute of Technology Libraries</vcard:street-address>
+            <vcard:street-address>3201 Campus Drive</vcard:street-address>
+            <vcard:locality>Klamath Falls, OR</vcard:locality>
+            <vcard:postal-code>97601</vcard:postal-code>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+5418851772"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+5418851777"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation rdf:resource="digitallib.oit.edu/cdm/copyright/collection/kwdl"/>
+      <nwda:facsimile rdf:resource="digitallib.oit.edu/cdm/copyright/collection/kwdl"/>
+      <dcterms:description>The Klamath Waters Digital Library is an online repository of information resources related to water issues in the Klamath Watershed. The digital library encompasses a collection of full-text documents, reports, articles, photographs and maps from the 1800s to the present as well as many special collections. Topics covered include water allocation, land and endangered species management, and the history and development of Klamath Reclamation Project. The Oregon Tech University Archives is the memory of Oregon Tech and the repository of its history. The Oregon Tech University Archives contain the permanent materials that document the history of Oregon Tech. The Shaw Historical Library is a five star rated archive located in Southern Oregon in the town of Klamath Falls. The Library specializes in research collections about the history of the "Land of the Lakes" which includes Klamath Falls, Klamath County, the Klamath Basin, Northern California's Siskiyou and Modoc Counties and Washoe County in Western Nevada.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

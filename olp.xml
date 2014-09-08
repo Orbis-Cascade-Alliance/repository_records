@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:olp">
+      <foaf:name>Lewis &amp; Clark College. Special Collections and Archives</foaf:name>
+      <foaf:homepage rdf:resource="http://library.lclark.edu/specialcollections"/>
+      <vcard:hasEmail rdf:resource="mailto:archives@lclark.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Lewis &amp; Clark College Special Collections and Archives</vcard:street-address>
+            <vcard:street-address>Aubrey R. Watzek Library</vcard:street-address>
+            <vcard:street-address>0615 SW Palatine Hill Rd.</vcard:street-address>
+            <vcard:locality>Portland, OR</vcard:locality>
+            <vcard:postal-code>97219</vcard:postal-code>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+5037687254"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+5037687282"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation>The Lewis &amp; Clark College Special Collections and Archives at the Aubrey R. Watzek Library possess research collections that are available to the Lewis &amp; Clark College campus community and the larger community of scholars. For in-person use of the collections please contact Special Collections to arrange a visit. Regular visiting hours are 10am-3pm M-F, or by appointment.</nwda:visitation>
+      <nwda:facsimile>Please contact Special Collections with any information or copies requests. Lewis &amp; Clark College reserves the right to make a charge for the use of Special Collections and Archives materials and to impose such other regulations and restrictions as it deems appropriate in any individual case. Additional information on research policies, registration, and publication are available at http://library.lclark.edu/specialcollections/hours.html</nwda:facsimile>
+      <dcterms:description>The Special Collections are home to rare books, archival collections, and fine press publications with a focus on materials relating Northwest history and literature. Some key collections are the Lewis and Clark Expedition Collection, the William Stafford Archives, and the Lewis &amp; Clark College Archives.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

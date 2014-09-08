@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:orz">
+      <foaf:name>Portland State University. Special Collections &amp; University Archives</foaf:name>
+      <foaf:homepage rdf:resource="http://library.pdx.edu/specialcollections.html"/>
+      <vcard:hasEmail rdf:resource="mailto:specialcollections@lists.pdx.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Portland State University Library</vcard:street-address>
+            <vcard:street-address>PO Box 1151</vcard:street-address>
+            <vcard:locality>Portland, OR</vcard:locality>
+            <vcard:postal-code>97207</vcard:postal-code>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+5037259883"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+5037254524"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation>Access to Special Collections &amp; University Archives is by appointment only. To schedule an appointment or ask a question, please use the online form at: http://library.pdx.edu/web_forms/special_collections_and_archives.php</nwda:visitation>
+      <nwda:facsimile>Please contact Special Collections &amp; University Archives for specific information on scanning, copying and licensing: http://library.pdx.edu/web_forms/special_collections_and_archives.php</nwda:facsimile>
+      <dcterms:description>Portland State University Library's Special Collections is home to rare books, journals, manuscripts, documents, photographs, maps, graphic novels, audio-visual material, and realia, spanning the 15th century to the present. The collection includes significant materials on Portland community history, regional planning and development, and local activism. The University Archives are the historical records of Portland State from its beginnings as Vanport Extension Center to the present day and include documents, correspondence, publications, program materials, photographs, moving images and ephemera from administrative departments, academic units, student organizations, and faculty and staff.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:wasmar">
+      <foaf:name>Seattle Municipal Archives</foaf:name>
+      <foaf:homepage rdf:resource="http://www.seattle.gov/cityarchives/"/>
+      <vcard:hasEmail rdf:resource="mailto:archives@seattle.gov"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Seattle Municipal Archives</vcard:street-address>
+            <vcard:street-address>Office of the City Clerk</vcard:street-address>
+            <vcard:street-address>Legislative Department</vcard:street-address>
+            <vcard:street-address>City of Seattle</vcard:street-address>
+            <vcard:street-address>PO Box 94728</vcard:street-address>
+            <vcard:street-address>Seattle, WA</vcard:street-address>
+            <vcard:postal-code>98124</vcard:postal-code>
+            <vcard:locality>-4728</vcard:locality>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+206 2337807"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+206 3869025"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation rdf:resource="http://www.seattle.gov/CityArchives/About/visiting.htm "/>
+      <nwda:facsimile rdf:resource="http://www.seattle.gov/CityArchives/About/visiting.htm"/>
+      <dcterms:description>The Municipal Archives holdings document the history, development, and activities of the agencies and elected officials of the City of Seattle. Strengths of the records include those documenting engineering, parks, urban planning, the legislative process and elected officials. Holdings include over 6,000 cubic feet of textual records; 3,000 maps and drawings, 3,000 audiotapes; hundreds of hours of motion picture film; and over 1.5 million photographic images of City projects and personnel.The Archives is open to the public. The holdings of the Archives are public records and are managed in accordance with the Revised Codes of Washington public records law and public disclosure law. For more information on holdings, please refer to the various indexes and guides.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

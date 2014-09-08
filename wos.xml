@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <arch:Archive rdf:about="aew:wos">
+      <foaf:name>Western Oregon University Archives</foaf:name>
+      <foaf:homepage rdf:resource="http://www.wou.edu/provost/library/archives/"/>
+      <vcard:hasEmail rdf:resource="mailto:libarchives@wou.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Hamersly Library</vcard:street-address>
+            <vcard:street-address>345 N. Monmouth Ave.</vcard:street-address>
+            <vcard:locality>Monmouth, OR</vcard:locality>
+            <vcard:postal-code>97361</vcard:postal-code>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+5038388893"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+5038388399"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation>University Archives is open by appointment, Monday – Friday 9:00-5:00 with the exception of Western Oregon University holidays. Anyone with a research interest may use the collections.</nwda:visitation>
+      <nwda:facsimile>University Archives provides photocopy and scanning services. Reproduction fees may apply for some uses of materials from the collections.</nwda:facsimile>
+      <dcterms:description>Western Oregon University Archives preserves and makes available unique collections of manuscripts, archives, photographs, and books that document the history of university since its founding in 1856 and the history of Monmouth and some Oregon regional history. Its holdings include the personal papers of former Oregon governor Robert W. Straub, pioneer families, student life, and materials that document the affect of the university and its programs on nearby towns and people.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>
