@@ -1,38 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
    <arch:Archive rdf:about="aew:esr">
-      <foaf:name>Evergreen State College. Malcolm Stilson Archives and Special Collections.</foaf:name>
-      <foaf:homepage rdf:resource="http://archives.evergreen.edu"/>
-      <vcard:hasEmail rdf:resource="mailto:archives@evergreen.edu"/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address>Archives and Special Collections</vcard:street-address>
-            <vcard:street-address>Daniel J. Evans Library</vcard:street-address>
-            <vcard:street-address>L2309</vcard:street-address>
-            <vcard:street-address>The Evergreen State College</vcard:street-address>
-            <vcard:street-address>2700 Evergreen Parkway NW</vcard:street-address>
-            <vcard:locality>Olympia, Wa.</vcard:locality>
-            <vcard:postal-code>98505</vcard:postal-code>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource="tel:+3608676126"/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-      <vcard:hasTelephone>
-         <vcard:Fax>
-            <vcard:hasValue rdf:resource="tel:+3608676790"/>
-         </vcard:Fax>
-      </vcard:hasTelephone>
-      <nwda:visitation rdf:resource="http://archives.evergreen.edu/homepage/Hours.htm"/>
-      <nwda:facsimile>To request copies contact the Archivist by email, telephone or regular mail (please use the repository contact information provided above)</nwda:facsimile>
-      <dcterms:description>Archives are the corporate memory of the institution. Included are the business and operational records of the College that are no longer actively in use in offices throughout the institution. The materials available here must also be either of continuing administrative, legal, or historical importance. Archives provide institutional researchers with documentation on : past policy, procedures, and documentation of official activities on behalf of the college. activities of administrators, staff , faculty - includes personal papers of retired or deceased administrators, faculty, and staff who have been part of the Evergreen Community. academic and leisure education programs - includes program histories. student academic work and student organizatons - includes examples of individual and student group academic work and the corporate records of campus student organizations. In addition, the TESC Archive holds several special collections that support some of the frequently reiterated themes in the College's curriculum including: The Nisqually Delta Association Archives - the archives of the organization dedicated to preserving the last remaining non-industrialized river delta in Washington State. The Washington State Folklife Council Project Archive - Through the use of photographs, video and audio tapes documents a variety of Washington State resident creators of folk arts and crafts. Chicano Archives - a collection of folk art and culture focusing on Chicano culture. Peoples of Washington - a cultural research collection which grew out of research by Sid White and Pat Matheny-White into the diversity of Washington State's population. Washington Worm Growers Association</dcterms:description>
+        <foaf:name>Evergreen State College. Malcolm Stilson Archives and Special Collections.</foaf:name>
+        <foaf:homepage rdf:resource="http://archives.evergreen.edu"/>
+        <vcard:hasEmail rdf:resource="mailto:archives@evergreen.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Archives and Special Collections</vcard:street-address>
+                <vcard:street-address>Daniel J. Evans Library</vcard:street-address>
+                <vcard:street-address>L2309</vcard:street-address>
+                <vcard:street-address>The Evergreen State College</vcard:street-address>
+                <vcard:street-address>2700 Evergreen Parkway NW</vcard:street-address>
+                <vcard:locality>Olympia, Wa.</vcard:locality>
+                <vcard:postal-code>98505</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+3608676126"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+3608676790"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation rdf:resource="http://archives.evergreen.edu/homepage/Hours.htm"/>
+        <nwda:facsimile>To request copies contact the Archivist by email, telephone or regular mail (please use the repository contact information provided above)</nwda:facsimile>
+        <dcterms:description>Archives are the corporate memory of the institution. Included are the business and operational records of the College that are no longer actively in use in offices throughout the institution. The materials available here must also be either of continuing administrative, legal, or historical importance. Archives provide institutional researchers with documentation on : past policy, procedures, and documentation of official activities on behalf of the college. activities of administrators, staff , faculty - includes personal papers of retired or deceased administrators, faculty, and staff who have been part of the Evergreen Community. academic and leisure education programs - includes program histories. student academic work and student organizatons - includes examples of individual and student group academic work and the corporate records of campus student organizations. In addition, the TESC Archive holds several special collections that support some of the frequently reiterated themes in the College's curriculum including: The Nisqually Delta Association Archives - the archives of the organization dedicated to preserving the last remaining non-industrialized river delta in Washington State. The Washington State Folklife Council Project Archive - Through the use of photographs, video and audio tapes documents a variety of Washington State resident creators of folk arts and crafts. Chicano Archives - a collection of folk art and culture focusing on Chicano culture. Peoples of Washington - a cultural research collection which grew out of research by Sid White and Pat Matheny-White into the diversity of Washington State's population. Washington Worm Growers Association</dcterms:description>
    </arch:Archive>
 </rdf:RDF>
