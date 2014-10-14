@@ -7,7 +7,7 @@
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <arch:Archive rdf:about="aew:uum">
-      <foaf:name> University of Utah. Libraries. Special Collections.</foaf:name>
+      <foaf:name>University of Utah. Libraries. Special Collections.</foaf:name>
       <foaf:homepage rdf:resource="http://www.lib.utah.edu/collections/special-collections/index.php"/>
       <vcard:hasEmail rdf:resource="mailto:paul.mogren@utah.edu"/>
       <vcard:hasAddress>
