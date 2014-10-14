@@ -17,8 +17,7 @@
             <vcard:street-address>University of Utah</vcard:street-address>
             <vcard:street-address>295 South 1500 East</vcard:street-address>
             <vcard:locality>Salt Lake City, UT</vcard:locality>
-            <vcard:postal-code>84112</vcard:postal-code>
-            <vcard:locality>-0860</vcard:locality>
+            <vcard:postal-code>84112-0860</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>
