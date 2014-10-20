@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:oip">
+	<arch:Archive rdf:about="nwda:idbb">
       <foaf:name>Boise State University Library. Special Collections and Archives.</foaf:name>
       <foaf:homepage rdf:resource="http://library.boisestate.edu/special/"/>
       <vcard:hasEmail rdf:resource="mailto:archives@boisestate.edu"/>

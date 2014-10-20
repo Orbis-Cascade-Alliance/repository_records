@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:olc">
+	<arch:Archive rdf:about="nwda:ormcl">
       <foaf:name>Linfield College Archives.</foaf:name>
       <foaf:homepage rdf:resource="http://www.linfield.edu/linfield-libraries/archives-special-collections.html"/>
       <vcard:hasEmail rdf:resource="mailto:archives@linfield.edu"/>
@@ -16,8 +16,7 @@
             <vcard:street-address>900 SE Baker St.</vcard:street-address>
             <vcard:street-address>A522</vcard:street-address>
             <vcard:locality>McMinnville, OR</vcard:locality>
-            <vcard:postal-code>97128</vcard:postal-code>
-            <vcard:locality>-6894</vcard:locality>
+         	<vcard:postal-code>97128-6894</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>

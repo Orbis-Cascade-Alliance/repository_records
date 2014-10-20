@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:opv">
+   <arch:Archive rdf:about="nwda:opv">
       <foaf:name>Archives and Special Collections, Pacific Lutheran University</foaf:name>
       <foaf:homepage rdf:resource="http://www.plu.edu/archives"/>
       <vcard:hasEmail rdf:resource="mailto:archives@plu.edu"/>

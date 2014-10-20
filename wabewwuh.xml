@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:xoe">
+	<arch:Archive rdf:about="nwda:wabewwuh">
       <foaf:name>Western Washington University.  Heritage Resources.</foaf:name>
       <foaf:homepage rdf:resource="http://www.library.wwu.edu/heritageresources"/>
       <vcard:hasEmail rdf:resource="mailto:Heritage.Resources@wwu.edu"/>
@@ -16,8 +16,7 @@
             <vcard:street-address>Goltz-Murray Building</vcard:street-address>
             <vcard:street-address>808 25th St</vcard:street-address>
             <vcard:street-address>Bellingham, WA</vcard:street-address>
-            <vcard:postal-code>98225</vcard:postal-code>
-            <vcard:locality>-9123</vcard:locality>
+         	<vcard:postal-code>98225-9123</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>

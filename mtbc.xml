@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:mzf">
+	<arch:Archive rdf:about="nwda:mtbc">
       <foaf:name>Montana State University. Library. Merrill G Burlingame Special Collections</foaf:name>
       <foaf:homepage rdf:resource="http://www.lib.montana.edu/archives/"/>
       <vcard:hasEmail rdf:resource="mailto:spcoll@www.lib.montana.edu"/>
@@ -16,8 +16,7 @@
             <vcard:street-address>Merrill G Burlingame Special Collections</vcard:street-address>
             <vcard:street-address>P.O. Box 173320</vcard:street-address>
             <vcard:locality>Bozeman, MT</vcard:locality>
-            <vcard:postal-code>59717</vcard:postal-code>
-            <vcard:locality>-3320</vcard:locality>
+         	<vcard:postal-code>59717-3320</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>

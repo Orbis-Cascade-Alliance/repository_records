@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:ohy">
+   <arch:Archive rdf:about="nwda:ohy">
       <foaf:name>Oregon Historical Society. Davies Family Research Library</foaf:name>
       <foaf:homepage rdf:resource="http://www.ohs.org/research/library/"/>
       <vcard:hasEmail rdf:resource="mailto:libreference@ohs.org"/>

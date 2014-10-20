@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:wse">
+	<arch:Archive rdf:about="nwda:wasu">
       <foaf:name>Seattle University. Lemieux Library &amp; McGoldrick Learning Commons. Special Collections</foaf:name>
       <foaf:homepage rdf:resource="http://digitallibrary.seattleu.edu"/>
       <vcard:hasEmail rdf:resource="mailto:speccoll@seattleu.edu"/>
@@ -17,8 +17,7 @@
             <vcard:street-address>Seattle University</vcard:street-address>
             <vcard:street-address>901 12th Avenue</vcard:street-address>
             <vcard:locality>Seattle, WA</vcard:locality>
-            <vcard:postal-code>98122</vcard:postal-code>
-            <vcard:locality>-1090</vcard:locality>
+         	<vcard:postal-code>98122-1090</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>

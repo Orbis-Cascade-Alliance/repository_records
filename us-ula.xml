@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:uus">
+	<arch:Archive rdf:about="nwda:us-ula">
       <foaf:name>Utah state University. Merrill-Cazier Library. Special Collections and Archives Division </foaf:name>
       <foaf:homepage rdf:resource="https://library.usu.edu/specol"/>
       <vcard:hasEmail rdf:resource="mailto:scweb@usu.edu"/>
@@ -16,8 +16,7 @@
             <vcard:street-address>Merrill-Cazier Library</vcard:street-address>
             <vcard:street-address>Utah State University</vcard:street-address>
             <vcard:locality>Logan, UT</vcard:locality>
-            <vcard:postal-code>84322</vcard:postal-code>
-            <vcard:locality>-3000</vcard:locality>
+         	<vcard:postal-code>84322-3000</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>

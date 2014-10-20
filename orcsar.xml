@@ -6,9 +6,9 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:ore">
+   <arch:Archive rdf:about="nwda:orcsar">
       <foaf:name>Oregon State University Libraries. Special Collections &amp; Archives Research Center.</foaf:name>
-      <foaf:homepage rdf:resource="scarc.library.oregonstate.edu"/>
+      <foaf:homepage rdf:resource="http://scarc.library.oregonstate.edu"/>
       <vcard:hasEmail rdf:resource="mailto:scarc@oregonstate.edu"/>
       <vcard:hasAddress>
          <rdf:Description>
@@ -16,8 +16,7 @@
             <vcard:street-address>121 The Valley Library</vcard:street-address>
             <vcard:street-address>Oregon State University</vcard:street-address>
             <vcard:street-address>Corvallis OR</vcard:street-address>
-            <vcard:postal-code>97331</vcard:postal-code>
-            <vcard:locality>-4501</vcard:locality>
+         	<vcard:postal-code>97331-4501</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>

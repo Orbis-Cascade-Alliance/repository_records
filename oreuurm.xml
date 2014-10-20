@@ -6,9 +6,9 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:oxf">
-      <foaf:name>Seattle Pacific University</foaf:name>
-      <foaf:homepage rdf:resource="http://www.spu.edu/library/archives.aspx"/>
+	<arch:Archive rdf:about="nwda:oreuurm">
+      <foaf:name>University of Oregon, Archives of Northwest Folklore</foaf:name>
+      <foaf:homepage rdf:resource="http://darkwing.uoregon.edu/~flr/archives/archives.htm"/>
       <vcard:hasEmail rdf:resource=""/>
       <vcard:hasAddress>
          <rdf:Description>

@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:upp">
+	<arch:Archive rdf:about="nwda:watu">
       <foaf:name>University of Puget Sound Archives &amp; Special Collections</foaf:name>
       <foaf:homepage rdf:resource="http://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/explore-the-library/university-archives/"/>
       <vcard:hasEmail rdf:resource="mailto:archives@pugetsound.edu"/>
@@ -16,9 +16,8 @@
             <vcard:street-address>Collins Memorial Library</vcard:street-address>
             <vcard:street-address>1500 N. Warner St.</vcard:street-address>
             <vcard:street-address>CMB1021</vcard:street-address>
-            <vcard:street-address>Tacoma, WA</vcard:street-address>
-            <vcard:postal-code>98416</vcard:postal-code>
-            <vcard:locality>-1021</vcard:locality>
+            <vcard:locality>Tacoma, WA</vcard:locality>
+         	<vcard:postal-code>98416-1021</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>

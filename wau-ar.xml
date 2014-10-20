@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:wau">
+	<arch:Archive rdf:about="nwda:wau-ar">
       <foaf:name>University of Washington. Librarires. Special Collections.</foaf:name>
       <foaf:homepage rdf:resource="http://www.lib.washington.edu/specialcollections/"/>
       <vcard:hasEmail rdf:resource="mailto:speccoll@uw.edu"/>
@@ -16,8 +16,7 @@
             <vcard:street-address>University of Washington Libraries</vcard:street-address>
             <vcard:street-address>BOX 352900</vcard:street-address>
             <vcard:locality>Seattle, WA</vcard:locality>
-            <vcard:postal-code>98195</vcard:postal-code>
-            <vcard:locality>-2900</vcard:locality>
+         	<vcard:postal-code>98195-2900</vcard:postal-code>\
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>

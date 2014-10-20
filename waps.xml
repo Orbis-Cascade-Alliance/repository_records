@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:nte">
+   <arch:Archive rdf:about="nwda:waps">
       <foaf:name>Washington State University Libraries. Manuscripts, Archives, and Special Collections.</foaf:name>
       <foaf:homepage rdf:resource="http://libraries.wsu.edu/masc/index.php"/>
       <vcard:hasEmail rdf:resource="mailto:mascref@wsu.edu"/>
@@ -16,8 +16,7 @@
             <vcard:street-address>100 Dairy Road</vcard:street-address>
             <vcard:street-address>Terrell Library 5610</vcard:street-address>
             <vcard:street-address>Pullman WA</vcard:street-address>
-            <vcard:postal-code>99164</vcard:postal-code>
-            <vcard:locality>-5610</vcard:locality>
+         	<vcard:postal-code>99164-5610</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>

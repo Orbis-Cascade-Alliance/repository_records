@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:ohs">
+	<arch:Archive rdf:about="nwda:orphs">
       <foaf:name>Oregon Health &amp; Science University. Historical Collections &amp; Archives</foaf:name>
       <foaf:homepage rdf:resource="http://www.ohsu.edu/xd/education/library/about/collections/historical-collections-archives/"/>
       <vcard:hasEmail rdf:resource="mailto:homref@ohsu.edu"/>

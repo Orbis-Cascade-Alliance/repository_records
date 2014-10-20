@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:htm">
+	<arch:Archive rdf:about="nwda:waww">
       <foaf:name>Whitman College and Northwest Archives.</foaf:name>
       <foaf:homepage rdf:resource="http://www.whitman.edu/library/archives"/>
       <vcard:hasEmail rdf:resource="mailto:archives@whitman.edu"/>

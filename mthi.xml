@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:mtl">
+   <arch:Archive rdf:about="nwda:mthi">
       <foaf:name>Montana Historical Society. Research Center Archives</foaf:name>
       <foaf:homepage rdf:resource="http://mhs.mt.gov/research/default.asp"/>
       <vcard:hasEmail rdf:resource="mailto:MHSlibrary@mt.gov"/>
@@ -16,8 +16,7 @@
             <vcard:street-address>225 North Roberts</vcard:street-address>
             <vcard:street-address>PO Box 201201</vcard:street-address>
             <vcard:locality>Helena MT</vcard:locality>
-            <vcard:postal-code>59620</vcard:postal-code>
-            <vcard:locality>-1201</vcard:locality>
+         	<vcard:postal-code>59620-1201</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
       <vcard:hasTelephone>

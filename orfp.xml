@@ -6,9 +6,9 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:opu">
+	<arch:Archive rdf:about="nwda:orfp">
       <foaf:name>Pacific University. Archives.</foaf:name>
-      <foaf:homepage rdf:resource="www.pacificu.edu/library"/>
+		<foaf:homepage rdf:resource="http://www.pacificu.edu/library"/>
       <vcard:hasEmail rdf:resource="mailto:archives@pacificu.edu"/>
       <vcard:hasAddress>
          <rdf:Description>

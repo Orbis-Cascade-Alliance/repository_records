@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <arch:Archive rdf:about="aew:ows">
+	<arch:Archive rdf:about="nwda:orsaw">
       <foaf:name>Willamette University Archives and Special Collections</foaf:name>
       <foaf:homepage rdf:resource="http://library.willamette.edu/archives/"/>
       <vcard:hasEmail rdf:resource="mailto:archives@willamette.edu"/>
@@ -15,8 +15,7 @@
             <vcard:street-address>Archives and Special Collection</vcard:street-address>
             <vcard:street-address>Mark O. Hatfield Library</vcard:street-address>
             <vcard:street-address>900 State Street</vcard:street-address>
-            <vcard:street-address>Salem</vcard:street-address>
-            <vcard:locality>OR</vcard:locality>
+            <vcard:locality>Salem, OR</vcard:locality>
             <vcard:postal-code>97301</vcard:postal-code>
          </rdf:Description>
       </vcard:hasAddress>
