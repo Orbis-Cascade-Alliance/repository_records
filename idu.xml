@@ -1,37 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:nwda="https://github.com/ewg118/nwda-editor#"
-	xmlns:arch="http://purl.org/archival/vocab/arch#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<arch:Archive rdf:about="nwda:idu">
-		<foaf:name>University of Idaho. Library. Special Collections &amp; Archives.</foaf:name>
-		<foaf:homepage rdf:resource="http://www.lib.uidaho.edu/special-collections/index.html"/>
-		<vcard:hasEmail rdf:resource="mailto:libspec@uidaho.edu"/>
-		<vcard:hasAddress>
-			<rdf:Description>
-				<vcard:street-address>Special Collections &amp; Archives</vcard:street-address>
-				<vcard:street-address>University of Idaho Library</vcard:street-address>
-				<vcard:street-address>875 Perimeter Drive</vcard:street-address>
-				<vcard:street-address>MS 2351</vcard:street-address>
-				<vcard:locality>Moscow, ID</vcard:locality>
-				<vcard:postal-code>83844-2351</vcard:postal-code>
-			</rdf:Description>
-		</vcard:hasAddress>
-		<vcard:hasTelephone>
-			<vcard:Voice>
-				<vcard:hasValue rdf:resource="tel:+2088850845"/>
-			</vcard:Voice>
-		</vcard:hasTelephone>
-		<nwda:visitation>Visitors to Special Collections are always welcome. All inventories of manuscripts and archival groups are available online. The book collections and brief
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	   <arch:Archive rdf:about="nwda:idu">
+		      <foaf:name>University of Idaho Library, Special Collections &amp; Archives.</foaf:name>
+		      <foaf:homepage rdf:resource="http://www.lib.uidaho.edu/special-collections/index.html"/>
+		      <vcard:hasEmail rdf:resource="mailto:libspec@uidaho.edu"/>
+		      <vcard:hasAddress>
+			         <rdf:Description>
+				            <vcard:street-address>Special Collections &amp; Archives</vcard:street-address>
+				            <vcard:street-address>University of Idaho Library</vcard:street-address>
+				            <vcard:street-address>875 Perimeter Drive</vcard:street-address>
+				            <vcard:street-address>MS 2351</vcard:street-address>
+				            <vcard:locality>Moscow, ID</vcard:locality>
+				            <vcard:postal-code>83844-2351</vcard:postal-code>
+			         </rdf:Description>
+		      </vcard:hasAddress>
+		      <vcard:hasTelephone>
+			         <vcard:Voice>
+				            <vcard:hasValue rdf:resource="tel:+2088850845"/>
+			         </vcard:Voice>
+		      </vcard:hasTelephone>
+		      <nwda:visitation>Visitors to Special Collections are always welcome. All inventories of manuscripts and archival groups are available online. The book collections and brief
 			descriptions of the archival, manuscript, and historical photograph collections are available through the Library's catalog. The Special Collections Reading Room is
 			located on the first floor of the University of Idaho Library on the University of Idaho Moscow campus. The Reading Room is open 9:00am-4:00pm during the academic year,
 			and 1:00pm-4:00pm during the summer. More information is available online: http://www.lib.uidaho.edu/special-collections/visiting.html</nwda:visitation>
-		<nwda:facsimile>Special Collections &amp; Archives provides photocopy and scanning services on a case by case basis. Reproduction fees may apply for some uses of materials
+		      <nwda:facsimile>Special Collections &amp; Archives provides photocopy and scanning services on a case by case basis. Reproduction fees may apply for some uses of materials
 			from the collections. The Fee Schedule is available online: http://www.lib.uidaho.edu/special-collections/spec_documents/DupFeeSchedule.pdf Image duplication request
 			forms are available online: http://www.lib.uidaho.edu/special-collections/spec_documents/ImgDupRequest.pdf</nwda:facsimile>
-		<dcterms:description>Special Collections &amp; Archives at the University of Idaho Library specializes in the acquisition, preservation, and use of research materials that
+		      <dcterms:description>Special Collections &amp; Archives at the University of Idaho Library specializes in the acquisition, preservation, and use of research materials that
 			document the cultural and environmental history of Idaho and the Inland Northwest. The collections include personal papers of individuals and families; business
 			archives of lumber, railroad, mining, and other companies; Idaho state publications; papers of government officials, educators, authors, and business people; records of
 			organizations such as religious, fraternal, civic, and environmental associations; and similar groups. The collection formats include personal papers and archives,
 			photographs, books, serials, reports, maps, blueprints, oral history interviews, and related items.</dcterms:description>
-	</arch:Archive>
+	   </arch:Archive>
 </rdf:RDF>

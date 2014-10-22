@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<arch:Archive rdf:about="nwda:wasu">
-      <foaf:name>Seattle University. Lemieux Library &amp; McGoldrick Learning Commons. Special Collections</foaf:name>
-      <foaf:homepage rdf:resource="http://digitallibrary.seattleu.edu"/>
-      <vcard:hasEmail rdf:resource="mailto:speccoll@seattleu.edu"/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address>Special Collections</vcard:street-address>
-            <vcard:street-address>Lemieux Library &amp; McGoldrick Learning Commons</vcard:street-address>
-            <vcard:street-address>Seattle University</vcard:street-address>
-            <vcard:street-address>901 12th Avenue</vcard:street-address>
-            <vcard:locality>Seattle, WA</vcard:locality>
-         	<vcard:postal-code>98122-1090</vcard:postal-code>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource="tel:+2062966210"/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-      <vcard:hasTelephone>
-         <vcard:Fax>
-            <vcard:hasValue rdf:resource="tel:+2062962575"/>
-         </vcard:Fax>
-      </vcard:hasTelephone>
-      <nwda:visitation rdf:resource="http://www.seattleu.edu/library/about/collections/request/"/>
-      <nwda:facsimile>The library reserves the right to provide photocopies of selected materials at 15¢ per page, consistent with prevailing copyright restrictions, or to deny providing photocopies depending on the physical condition of the material. The extent of copying that the Library allows is dependent on copyright ownership and fair use restrictions. Depending on the amount of photocopies requested, library staff may be required to make copies of materials after a researcher’s visit is concluded. In these instances photocopies will be mailed to the researcher with an invoice including copying and mailing fees. Lemieux Library has limited facilities to provide photographic or color prints of materials in this Collection.</nwda:facsimile>
-      <dcterms:description rdf:resource="http://www.seattleu.edu/library/about/collections/special"/>
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	   <arch:Archive rdf:about="nwda:wasu">
+        <foaf:name>Seattle University, Lemieux Library &amp; McGoldrick Learning Commons. Special Collections</foaf:name>
+        <foaf:homepage rdf:resource="http://www.seattleu.edu/library/about/collections/special/ "/>
+        <vcard:hasEmail rdf:resource="mailto:speccoll@seattleu.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Special Collections</vcard:street-address>
+                <vcard:street-address>Lemieux Library &amp; McGoldrick Learning Commons</vcard:street-address>
+                <vcard:street-address>Seattle University</vcard:street-address>
+                <vcard:street-address>901 12th Avenue</vcard:street-address>
+                <vcard:locality>Seattle, WA</vcard:locality>
+         	      <vcard:postal-code>98122-1090</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+2062966210"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+2062962575"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation rdf:resource="http://www.seattleu.edu/library/about/collections/request/"/>
+        <nwda:facsimile>The library reserves the right to provide photocopies of selected materials at 15¢ per page, consistent with prevailing copyright restrictions, or to deny providing photocopies depending on the physical condition of the material. The extent of copying that the Library allows is dependent on copyright ownership and fair use restrictions. Depending on the amount of photocopies requested, library staff may be required to make copies of materials after a researcher’s visit is concluded. In these instances photocopies will be mailed to the researcher with an invoice including copying and mailing fees. Lemieux Library has limited facilities to provide photographic or color prints of materials in this Collection.</nwda:facsimile>
+        <dcterms:description rdf:resource="http://www.seattleu.edu/library/about/collections/special"/>
    </arch:Archive>
 </rdf:RDF>

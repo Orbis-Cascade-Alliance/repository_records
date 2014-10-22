@@ -6,8 +6,8 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-	<arch:Archive rdf:about="nwda:waoe">
-        <foaf:name>Evergreen State College. Malcolm Stilson Archives and Special Collections.</foaf:name>
+	   <arch:Archive rdf:about="nwda:waoe">
+        <foaf:name>Evergreen State College, Malcolm Stilson Archives and Special Collections.</foaf:name>
         <foaf:homepage rdf:resource="http://archives.evergreen.edu"/>
         <vcard:hasEmail rdf:resource="mailto:archives@evergreen.edu"/>
         <vcard:hasAddress>
@@ -17,7 +17,7 @@
                 <vcard:street-address>L2309</vcard:street-address>
                 <vcard:street-address>The Evergreen State College</vcard:street-address>
                 <vcard:street-address>2700 Evergreen Parkway NW</vcard:street-address>
-                <vcard:locality>Olympia, Wa.</vcard:locality>
+                <vcard:locality>Olympia, WA</vcard:locality>
                 <vcard:postal-code>98505</vcard:postal-code>
             </rdf:Description>
         </vcard:hasAddress>

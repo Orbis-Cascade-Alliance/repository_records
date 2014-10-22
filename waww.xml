@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<arch:Archive rdf:about="nwda:waww">
-      <foaf:name>Whitman College and Northwest Archives.</foaf:name>
-      <foaf:homepage rdf:resource="http://www.whitman.edu/library/archives"/>
-      <vcard:hasEmail rdf:resource="mailto:archives@whitman.edu"/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address>Whitman College and Northwest Archives</vcard:street-address>
-            <vcard:street-address>Penrose Library, Room 130</vcard:street-address>
-            <vcard:street-address>345 Boyer Avenue</vcard:street-address>
-            <vcard:locality>Walla Walla, WA</vcard:locality>
-            <vcard:postal-code>99362</vcard:postal-code>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource="tel:+5095275922"/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-      <vcard:hasTelephone>
-         <vcard:Fax>
-            <vcard:hasValue rdf:resource="tel:+5095275900"/>
-         </vcard:Fax>
-      </vcard:hasTelephone>
-      <nwda:visitation rdf:resource="http://www.whitman.edu/library/archives/research-services"/>
-      <nwda:facsimile>University Archives provides photocopy and scanning services. Reproduction fees may apply for some uses of materials from the collections.</nwda:facsimile>
-      <dcterms:description rdf:resource="http://www.whitman.edu/library/archives/about-collections"/>
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	   <arch:Archive rdf:about="nwda:waww">
+        <foaf:name>Whitman College and Northwest Archives</foaf:name>
+        <foaf:homepage rdf:resource="http://www.whitman.edu/library/archives"/>
+        <vcard:hasEmail rdf:resource="mailto:archives@whitman.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Whitman College and Northwest Archives</vcard:street-address>
+                <vcard:street-address>Penrose Library, Room 130</vcard:street-address>
+                <vcard:street-address>345 Boyer Avenue</vcard:street-address>
+                <vcard:locality>Walla Walla, WA</vcard:locality>
+                <vcard:postal-code>99362</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5095275922"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+5095275900"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation rdf:resource="http://www.whitman.edu/library/archives/research-services"/>
+        <nwda:facsimile>University Archives provides photocopy and scanning services. Reproduction fees may apply for some uses of materials from the collections.</nwda:facsimile>
+        <dcterms:description rdf:resource="http://www.whitman.edu/library/archives/about-collections"/>
    </arch:Archive>
 </rdf:RDF>

@@ -1,37 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
    <arch:Archive rdf:about="nwda:uak">
-      <foaf:name>Joel E. Ferris Research Library and Archives, Eastern Washington State Historical Society (Northwest Museum of
-					Arts &amp; Culture)</foaf:name>
-   	<foaf:homepage rdf:resource="http://northwestmuseum.org/learn/research"/>
-      <vcard:hasEmail rdf:resource="mailto:archives@northwestmuseum.org"/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address>Joel E. Ferris Research Library and Archives</vcard:street-address>
-            <vcard:street-address>Eastern Washington State Historical Society (Northwest Museum of Arts &amp; Culture)</vcard:street-address>
-            <vcard:street-address>2316 W. First Ave.</vcard:street-address>
-            <vcard:locality>Spokane, WA</vcard:locality>
-            <vcard:postal-code>99201</vcard:postal-code>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource="tel:+5093635342"/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-      <vcard:hasTelephone>
-         <vcard:Fax>
-            <vcard:hasValue rdf:resource="tel:+5093635303"/>
-         </vcard:Fax>
-      </vcard:hasTelephone>
-   	<nwda:visitation rdf:resource="http://northwestmuseum.org/learn/research"/>
-   	<nwda:facsimile rdf:resource="http://northwestmuseum.org/learn/research"/>
-      <dcterms:description>The Joel E. Ferris Research Library and Archives: Collects and makes available for research primary and secondary sources that document and interpret the history, art, and culture of the Inland Northwest/Pacific Northwest that are not readily available at other institutions in the Inland Northwest or Pacific Northwest. Provides research and exhibit-quality primary and secondary materials for the MAC’s exhibits, programs, and staff, including regional history, art, and American Indian departments; provides access to research and exhibit-quality materials to individuals and institutions outside the MAC. Provides research and exhibit-quality primary and secondary materials for the MAC’s exhibits, programs, and staff, including regional history, art, and American Indian departments; provides access to research and exhibit-quality materials to individuals and institutions outside the MAC. Houses the institutional archives of the Eastern Washington State Historical Society/Northwest Museum of Arts &amp; Culture. Collections include: photographs and negatives manuscripts ephemera architectural drawings reel-to-reel film oral histories maps books and periodicals These materials reflect the broad collecting categories of the Northwest Museum of Arts &amp; Culture/Eastern Washington State Historical Society: regional history, visual art, and American Indian and other cultures.</dcterms:description>
+        <foaf:name>Eastern Washington State Historical Society (Northwest Museum of Arts &amp; Culture), Joel E. Ferris Research Library and Archives</foaf:name>
+   	    <foaf:homepage rdf:resource="http://northwestmuseum.org/learn/research"/>
+        <vcard:hasEmail rdf:resource="mailto:archives@northwestmuseum.org"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Joel E. Ferris Research Library and Archives</vcard:street-address>
+                <vcard:street-address>Eastern Washington State Historical Society (Northwest Museum of Arts &amp; Culture)</vcard:street-address>
+                <vcard:street-address>2316 W. First Ave.</vcard:street-address>
+                <vcard:locality>Spokane, WA</vcard:locality>
+                <vcard:postal-code>99201</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5093635342"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+5093635303"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+   	    <nwda:visitation rdf:resource="http://northwestmuseum.org/learn/research"/>
+   	    <nwda:facsimile rdf:resource="http://northwestmuseum.org/learn/research"/>
+        <dcterms:description>The Joel E. Ferris Research Library and Archives: Collects and makes available for research primary and secondary sources that document and interpret the history, art, and culture of the Inland Northwest/Pacific Northwest that are not readily available at other institutions in the Inland Northwest or Pacific Northwest. Provides research and exhibit-quality primary and secondary materials for the MAC’s exhibits, programs, and staff, including regional history, art, and American Indian departments; provides access to research and exhibit-quality materials to individuals and institutions outside the MAC. Provides research and exhibit-quality primary and secondary materials for the MAC’s exhibits, programs, and staff, including regional history, art, and American Indian departments; provides access to research and exhibit-quality materials to individuals and institutions outside the MAC. Houses the institutional archives of the Eastern Washington State Historical Society/Northwest Museum of Arts &amp; Culture. Collections include: photographs and negatives manuscripts ephemera architectural drawings reel-to-reel film oral histories maps books and periodicals These materials reflect the broad collecting categories of the Northwest Museum of Arts &amp; Culture/Eastern Washington State Historical Society: regional history, visual art, and American Indian and other cultures.</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

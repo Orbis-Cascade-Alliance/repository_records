@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
    <arch:Archive rdf:about="nwda:waps">
-      <foaf:name>Washington State University Libraries. Manuscripts, Archives, and Special Collections.</foaf:name>
-      <foaf:homepage rdf:resource="http://libraries.wsu.edu/masc/index.php"/>
-      <vcard:hasEmail rdf:resource="mailto:mascref@wsu.edu"/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address>Manuscripts, Archives, and Special Collections</vcard:street-address>
-            <vcard:street-address>100 Dairy Road</vcard:street-address>
-            <vcard:street-address>Terrell Library 5610</vcard:street-address>
-            <vcard:street-address>Pullman WA</vcard:street-address>
-         	<vcard:postal-code>99164-5610</vcard:postal-code>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource="tel:+5093356691"/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-      <vcard:hasTelephone>
-         <vcard:Fax>
-            <vcard:hasValue rdf:resource="tel:+5093356721"/>
-         </vcard:Fax>
-      </vcard:hasTelephone>
-      <nwda:visitation>The use of the resources is limited to the Donald W. Bushaw Reference and Research room in the MASC suite, off the rotunda on the ground floor of Holland and Terrell Library. Patrons must register with the attendant, take care in handling the materials, maintain the order and arrangement of collections. The use of lap-top computers and digital cameras is welcomed.</nwda:visitation>
-      <nwda:facsimile rdf:resource="http://ntserver1.wsulibs.wsu.edu/masc/reproductionofmascmaterial.html"/>
-      <dcterms:description>MASC holds more than 60,000 glorious rare books that are available for consultation in our reading room. We actively collect in areas that directly support the teaching and research mission of Washington State University and welcome visitors interested in our collections. Our printed collections span more than 500 years from 52 incunabula--books printed before 1501--to modern first editions. Arguably our most important collection is the personal, working library of Leonard and Virginia Woolf (more than 9,000 books). Manuscript collections have been acquired since the early 1900s. They cover a broad range of subjects, and are especially rich in materials relating to the history of eastern Washington State, especially the Palouse region and, more broadly, the Pacific Northwest. The Archives of Washington State University contain materials of permanent administrative or historical value that originates with Washington State University, including its administration, faculty, staff, and students. The University Archives document the activities and history of Washington State University and the people associated with it. These archives include official documents and papers, published and unpublished records, printed resources, ephemera, theses and dissertations, and audio and visual materials. These Archives exist for both historical and administrative purposes. Common uses involve university public relations, architectural research, departmental histories, past athletic events, older university publications, theses and dissertations, biography, and technical questions.</dcterms:description>
+        <foaf:name>Washington State University Libraries, Manuscripts, Archives, and Special Collections.</foaf:name>
+        <foaf:homepage rdf:resource="http://libraries.wsu.edu/masc/index.php"/>
+        <vcard:hasEmail rdf:resource="mailto:mascref@wsu.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Manuscripts, Archives, and Special Collections</vcard:street-address>
+                <vcard:street-address>100 Dairy Road</vcard:street-address>
+                <vcard:street-address>Terrell Library 5610</vcard:street-address>
+                <vcard:street-address>Pullman WA</vcard:street-address>
+         	      <vcard:postal-code>99164-5610</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5093356691"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+5093356721"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation>The use of the resources is limited to the Donald W. Bushaw Reference and Research room in the MASC suite, off the rotunda on the ground floor of Holland and Terrell Library. Patrons must register with the attendant, take care in handling the materials, maintain the order and arrangement of collections. The use of lap-top computers and digital cameras is welcomed.</nwda:visitation>
+        <nwda:facsimile rdf:resource="http://ntserver1.wsulibs.wsu.edu/masc/reproductionofmascmaterial.html"/>
+        <dcterms:description>MASC holds more than 60,000 glorious rare books that are available for consultation in our reading room. We actively collect in areas that directly support the teaching and research mission of Washington State University and welcome visitors interested in our collections. Our printed collections span more than 500 years from 52 incunabula--books printed before 1501--to modern first editions. Arguably our most important collection is the personal, working library of Leonard and Virginia Woolf (more than 9,000 books). Manuscript collections have been acquired since the early 1900s. They cover a broad range of subjects, and are especially rich in materials relating to the history of eastern Washington State, especially the Palouse region and, more broadly, the Pacific Northwest. The Archives of Washington State University contain materials of permanent administrative or historical value that originates with Washington State University, including its administration, faculty, staff, and students. The University Archives document the activities and history of Washington State University and the people associated with it. These archives include official documents and papers, published and unpublished records, printed resources, ephemera, theses and dissertations, and audio and visual materials. These Archives exist for both historical and administrative purposes. Common uses involve university public relations, architectural research, departmental histories, past athletic events, older university publications, theses and dissertations, biography, and technical questions.</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

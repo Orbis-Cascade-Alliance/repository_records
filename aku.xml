@@ -1,38 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:nwda="https://github.com/ewg118/nwda-editor#"
-	xmlns:arch="http://purl.org/archival/vocab/arch#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<arch:Archive rdf:about="nwda:aku">
-		<foaf:name>University of Alaska Fairbanks. Archives, Elmer E. Rasmuson Library. Alaska and Polar Regions Collections &amp; Archives.</foaf:name>
-		<foaf:homepage rdf:resource="http://library.uaf.edu/apr"/>
-		<vcard:hasEmail rdf:resource="mailto:UAF-APR-reference-Service@alaska.edu"/>
-		<vcard:hasAddress>
-			<rdf:Description>
-				<vcard:street-address>Alaska and Polar Regions Collections &amp; Archives</vcard:street-address>
-				<vcard:street-address>Elmer E. Rasmuson Library</vcard:street-address>
-				<vcard:street-address>PO Box 756808</vcard:street-address>
-				<vcard:locality>Fairbanks, Alaska</vcard:locality>
-				<vcard:postal-code>99775-6808</vcard:postal-code>
-			</rdf:Description>
-		</vcard:hasAddress>
-		<vcard:hasTelephone>
-			<vcard:Voice>
-				<vcard:hasValue rdf:resource="tel:+9074742791"/>
-			</vcard:Voice>
-		</vcard:hasTelephone>
-		<vcard:hasTelephone>
-			<vcard:Fax>
-				<vcard:hasValue rdf:resource="tel:+9074746365"/>
-			</vcard:Fax>
-		</vcard:hasTelephone>
-		<nwda:visitation>Most collections are accessed in the Research Room, located on the 2nd floor of the Elmer E. Rasmuson Library. These materials include archives, historical
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	   <arch:Archive rdf:about="nwda:aku">
+		      <foaf:name>University of Alaska Fairbanks, Elmer E. Rasmuson Library, Alaska and Polar Regions Collections &amp; Archives</foaf:name>
+		      <foaf:homepage rdf:resource="http://library.uaf.edu/apr"/>
+		      <vcard:hasEmail rdf:resource="mailto:UAF-APR-reference-Service@alaska.edu"/>
+		      <vcard:hasAddress>
+			         <rdf:Description>
+				            <vcard:street-address>Alaska and Polar Regions Collections &amp; Archives</vcard:street-address>
+				            <vcard:street-address>Elmer E. Rasmuson Library</vcard:street-address>
+				            <vcard:street-address>PO Box 756808</vcard:street-address>
+				            <vcard:locality>Fairbanks, Alaska</vcard:locality>
+				            <vcard:postal-code>99775-6808</vcard:postal-code>
+			         </rdf:Description>
+		      </vcard:hasAddress>
+		      <vcard:hasTelephone>
+			         <vcard:Voice>
+				            <vcard:hasValue rdf:resource="tel:+9074742791"/>
+			         </vcard:Voice>
+		      </vcard:hasTelephone>
+		      <vcard:hasTelephone>
+			         <vcard:Fax>
+				            <vcard:hasValue rdf:resource="tel:+9074746365"/>
+			         </vcard:Fax>
+		      </vcard:hasTelephone>
+		      <nwda:visitation>Most collections are accessed in the Research Room, located on the 2nd floor of the Elmer E. Rasmuson Library. These materials include archives, historical
 			manuscripts, historical photographs, rare books and maps, oral histories, and archival films documenting life in Alaska from before the Russian period through the 21st
 			century. Advanced notice is recommended but not necessary. Research room hours: http://library.uaf.edu/research-room-hours</nwda:visitation>
-		<nwda:facsimile>For information on requesting reproductions, see: http://library.uaf.edu/apr-reproduction-guidelines To order photographs:
+		      <nwda:facsimile>For information on requesting reproductions, see: http://library.uaf.edu/apr-reproduction-guidelines To order photographs:
 			http://library.uaf.edu/order-photos Email UAF-APR-reference-Service@alaska.edu for more information.</nwda:facsimile>
-		<dcterms:description>The Alaska and Polar Regions Collections &amp; Archives (APR) holds exceptional resources for the study of Alaska's history, politics, and culture, as
+		      <dcterms:description>The Alaska and Polar Regions Collections &amp; Archives (APR) holds exceptional resources for the study of Alaska's history, politics, and culture, as
 			well as significant international Polar research materials. APR serves a local, national, and international research community with more than 150,000 monograph and
 			serial volumes; over 11,000 rare books, rare maps, and manuscript maps; over 20,000 linear feet of archives and manuscripts; in excess of 1 million photographs; tens of
 			thousands of historical films and videotapes, and over 11,000 hours of oral history recordings.</dcterms:description>
-	</arch:Archive>
+	   </arch:Archive>
 </rdf:RDF>

@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<arch:Archive rdf:about="nwda:orngf">
-      <foaf:name>George Fox University/Northwest Yearly Meeting of Friends Church Archives</foaf:name>
-      <foaf:homepage rdf:resource="http://www.georgefox.edu/offices/murdock/Archives/"/>
-      <vcard:hasEmail rdf:resource="mailto:zclark@georgefox.edu"/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address>George Fox University/Northwest Yearly Meeting of Friends Church Archives</vcard:street-address>
-            <vcard:street-address>416 N. Meridian Street</vcard:street-address>
-            <vcard:locality>Newberg, OR</vcard:locality>
-            <vcard:postal-code>97132</vcard:postal-code>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource="tel:+5035542415"/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-      <vcard:hasTelephone>
-         <vcard:Fax>
-            <vcard:hasValue rdf:resource="tel:+5305543599"/>
-         </vcard:Fax>
-      </vcard:hasTelephone>
-      <nwda:visitation>The Archives are open for research by appointment 9am-5pm Mon-Fri on all days that the library is open. If no appointment has been made and the Archives are locked, ask for the archivist at the Circulation desk on the main floor of the library.</nwda:visitation>
-      <nwda:facsimile>The GFU/NWYM Archives provides photocopy services for a fee of 25 cents per page, plus postage. For more information regarding charges for scanning or research, please refer to the website: http://www.georgefox.edu/offices/murdock/Archives/index.html</nwda:facsimile>
-      <dcterms:description>George Fox University/Northwest Yearly Meeting of Friends Church Archives (GFU/NWYM) contains archival materials including university and church publications, photographs. Many of the materials reflect Quaker spirituality and the Peace stance, particularly the manuscript collections of Richard J. Foster, Levi T. Pennington, Arthur Roberts and other alumni or church members.</dcterms:description>
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	   <arch:Archive rdf:about="nwda:orngf">
+        <foaf:name>George Fox University, Northwest Yearly Meeting of Friends Church Archives</foaf:name>
+        <foaf:homepage rdf:resource="http://www.georgefox.edu/offices/murdock/Archives/"/>
+        <vcard:hasEmail rdf:resource="mailto:zclark@georgefox.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>George Fox University/Northwest Yearly Meeting of Friends Church Archives</vcard:street-address>
+                <vcard:street-address>416 N. Meridian Street</vcard:street-address>
+                <vcard:locality>Newberg, OR</vcard:locality>
+                <vcard:postal-code>97132</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5035542415"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+5305543599"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation>The Archives are open for research by appointment 9am-5pm Mon-Fri on all days that the library is open. If no appointment has been made and the Archives are locked, ask for the archivist at the Circulation desk on the main floor of the library.</nwda:visitation>
+        <nwda:facsimile>The GFU/NWYM Archives provides photocopy services for a fee of 25 cents per page, plus postage. For more information regarding charges for scanning or research, please refer to the website: http://www.georgefox.edu/offices/murdock/Archives/index.html</nwda:facsimile>
+        <dcterms:description>George Fox University/Northwest Yearly Meeting of Friends Church Archives (GFU/NWYM) contains archival materials including university and church publications, photographs. Many of the materials reflect Quaker spirituality and the Peace stance, particularly the manuscript collections of Richard J. Foster, Levi T. Pennington, Arthur Roberts and other alumni or church members.</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

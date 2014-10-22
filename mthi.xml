@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
    <arch:Archive rdf:about="nwda:mthi">
-      <foaf:name>Montana Historical Society. Research Center Archives</foaf:name>
-      <foaf:homepage rdf:resource="http://mhs.mt.gov/research/default.asp"/>
-      <vcard:hasEmail rdf:resource="mailto:MHSlibrary@mt.gov"/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address>Montana Historical Society Research Center Archives</vcard:street-address>
-            <vcard:street-address>225 North Roberts</vcard:street-address>
-            <vcard:street-address>PO Box 201201</vcard:street-address>
-            <vcard:locality>Helena MT</vcard:locality>
-         	<vcard:postal-code>59620-1201</vcard:postal-code>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource="tel:+4064442681"/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-      <vcard:hasTelephone>
-         <vcard:Fax>
-            <vcard:hasValue rdf:resource="tel:+4064445297"/>
-         </vcard:Fax>
-      </vcard:hasTelephone>
-      <nwda:visitation>Researchers are encouraged to visit the Montana Historical Society Research Center to use our archival collections. For directions, hours of operation and other important information, please see the following links: http://www.montanahistoricalsociety.org/research/library/visitingus.asp. http://www.montanahistoricalsociety.org/finduse/findus.asp</nwda:visitation>
-      <nwda:facsimile>Information regarding research or reproduction request fees can be found at: http://mhs.mt.gov/research/photo/servicesfees.asp</nwda:facsimile>
-      <dcterms:description>Archives Collections The Montana Historical Society Research Center has the most complete and extensive collection of unpublished records and manuscripts documenting the history of Montana and its government. The Archives Collections is comprised of: Manuscript Collections Manuscripts collections are records or papers created or gathered by an organization, individual, or family. Manuscripts collections constitute the core of our research collection and range from the early 1860s to the present. The collection is especially strong on 19th century business history, political history, the history of social and cultural organizations, pioneer diaries and reminiscences, women's experiences on the frontier, and military encounters. State &amp; Local Government Records The Montana Historical Society has been the unofficial archives of Montana state government since 1865 and the official state archives since 1969. The State Archives collects, preserves, and provides access to inactive, historically significant state records. In addition to the records of executive branch agencies and elected officials, the State Archives includes records of legislative sessions. Since 2001 the Montana Historical Society has acted as a repository for local government records with historical significance. Currently, our holdings include marriage records and naturalization records from the District Court Clerk's office and school census records, submitted to the Office of Public Instruction by the County Superintendent of Schools. Oral Histories Oral history interviews add dimension to the historical record by preserving first-hand recollections of those who may not have initiated historic events, but whose experiences shaped and in turn were defined by those events. Since the 1880s, when interviews were recorded by hand, the Montana Historical Society has conducted oral history interviews with Montanans from across the state, and from various walks of life. The oral history collection covers such topics as the New Deal and Fort Peck Dam, reminiscences by veterans, war brides, and homesteaders, as well as the history of medicine, education and government in Montana. Searching the Collection Archives materials can be searched through the online catalog and Northwest Digital Archives.</dcterms:description>
+        <foaf:name>Montana Historical Society, Research Center Archives</foaf:name>
+        <foaf:homepage rdf:resource="http://mhs.mt.gov/research/default.asp"/>
+        <vcard:hasEmail rdf:resource="mailto:MHSlibrary@mt.gov"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Montana Historical Society Research Center Archives</vcard:street-address>
+                <vcard:street-address>225 North Roberts</vcard:street-address>
+                <vcard:street-address>PO Box 201201</vcard:street-address>
+                <vcard:locality>Helena MT</vcard:locality>
+         	      <vcard:postal-code>59620-1201</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+4064442681"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+4064445297"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation>Researchers are encouraged to visit the Montana Historical Society Research Center to use our archival collections. For directions, hours of operation and other important information, please see the following links: http://www.montanahistoricalsociety.org/research/library/visitingus.asp. http://www.montanahistoricalsociety.org/finduse/findus.asp</nwda:visitation>
+        <nwda:facsimile>Information regarding research or reproduction request fees can be found at: http://mhs.mt.gov/research/photo/servicesfees.asp</nwda:facsimile>
+        <dcterms:description>Archives Collections The Montana Historical Society Research Center has the most complete and extensive collection of unpublished records and manuscripts documenting the history of Montana and its government. The Archives Collections is comprised of: Manuscript Collections Manuscripts collections are records or papers created or gathered by an organization, individual, or family. Manuscripts collections constitute the core of our research collection and range from the early 1860s to the present. The collection is especially strong on 19th century business history, political history, the history of social and cultural organizations, pioneer diaries and reminiscences, women's experiences on the frontier, and military encounters. State &amp; Local Government Records The Montana Historical Society has been the unofficial archives of Montana state government since 1865 and the official state archives since 1969. The State Archives collects, preserves, and provides access to inactive, historically significant state records. In addition to the records of executive branch agencies and elected officials, the State Archives includes records of legislative sessions. Since 2001 the Montana Historical Society has acted as a repository for local government records with historical significance. Currently, our holdings include marriage records and naturalization records from the District Court Clerk's office and school census records, submitted to the Office of Public Instruction by the County Superintendent of Schools. Oral Histories Oral history interviews add dimension to the historical record by preserving first-hand recollections of those who may not have initiated historic events, but whose experiences shaped and in turn were defined by those events. Since the 1880s, when interviews were recorded by hand, the Montana Historical Society has conducted oral history interviews with Montanans from across the state, and from various walks of life. The oral history collection covers such topics as the New Deal and Fort Peck Dam, reminiscences by veterans, war brides, and homesteaders, as well as the history of medicine, education and government in Montana. Searching the Collection Archives materials can be searched through the online catalog and Northwest Digital Archives.</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

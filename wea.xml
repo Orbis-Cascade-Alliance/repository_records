@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
    <arch:Archive rdf:about="nwda:wea">
-      <foaf:name>Eastern Washington University. Special Collections Library</foaf:name>
-      <foaf:homepage rdf:resource="http://www.ewu.edu/library/services/archives.xml"/>
-      <vcard:hasEmail rdf:resource="mailto:archives@ewu.edu"/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address>Archives &amp; Special Collections</vcard:street-address>
-            <vcard:street-address>Eastern Washington University Libraries</vcard:street-address>
-            <vcard:street-address>100 LIB - 816 ""F"" Street</vcard:street-address>
-            <vcard:locality>Cheney WA</vcard:locality>
-            <vcard:postal-code>99004</vcard:postal-code>
-            <vcard:locality>-2453</vcard:locality>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource="tel:+5093592475"/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-      <vcard:hasTelephone>
-         <vcard:Fax>
-            <vcard:hasValue rdf:resource="tel:+5093596456"/>
-         </vcard:Fax>
-      </vcard:hasTelephone>
-      <nwda:visitation>Persons planning an in person research visit are encouraged to contact us before visiting. Currently, our hours of operation are 12:00 Noon - 4:30 PM Monday - Friday during the academic year. We are closed on weekends, holidays observed by the university, and during quarter breaks. Contact information is located at: http://www.ewu.edu/library/services/archives.xml Our digital collections may be accessed at: http://econtent.library.ewu/edu</nwda:visitation>
-      <nwda:facsimile rdf:resource="http://www.ewu.edu/library/services/archives/order-info.xml"/>
-      <dcterms:description>The Archives &amp; Special Collections department of the Eastern Washington University Libraries combines university archives, non-university archives and manuscripts, and special collections (including rare books) in a single unit. The EWU Archives &amp; Special Collections holds over 500 accessions of university records, including those of the Board of Trustees, President, Academic Affairs, Faculty Organization, and deans and academic departments. Over 600 collections of non-university records and manuscripts are held. The collecting focus is primarily the economic and social development of those portions of eastern Washington and north Idaho within a one hundred mile radius of Cheney, Washington. Notable subjects held include the development of hydroelectric power, agriculture, transportation, community development, women in aviation, and the ice age floods.</dcterms:description>
+        <foaf:name>Eastern Washington University, Special Collections Library</foaf:name>
+        <foaf:homepage rdf:resource="http://www.ewu.edu/library/services/archives.xml"/>
+        <vcard:hasEmail rdf:resource="mailto:archives@ewu.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Archives &amp; Special Collections</vcard:street-address>
+                <vcard:street-address>Eastern Washington University Libraries</vcard:street-address>
+                <vcard:street-address>100 LIB - 816 ""F"" Street</vcard:street-address>
+                <vcard:locality>Cheney WA</vcard:locality>
+                <vcard:postal-code>99004</vcard:postal-code>
+                <vcard:locality>-2453</vcard:locality>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5093592475"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+5093596456"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation>Persons planning an in person research visit are encouraged to contact us before visiting. Currently, our hours of operation are 12:00 Noon - 4:30 PM Monday - Friday during the academic year. We are closed on weekends, holidays observed by the university, and during quarter breaks. Contact information is located at: http://www.ewu.edu/library/services/archives.xml Our digital collections may be accessed at: http://econtent.library.ewu/edu</nwda:visitation>
+        <nwda:facsimile rdf:resource="http://www.ewu.edu/library/services/archives/order-info.xml"/>
+        <dcterms:description>The Archives &amp; Special Collections department of the Eastern Washington University Libraries combines university archives, non-university archives and manuscripts, and special collections (including rare books) in a single unit. The EWU Archives &amp; Special Collections holds over 500 accessions of university records, including those of the Board of Trustees, President, Academic Affairs, Faculty Organization, and deans and academic departments. Over 600 collections of non-university records and manuscripts are held. The collecting focus is primarily the economic and social development of those portions of eastern Washington and north Idaho within a one hundred mile radius of Cheney, Washington. Notable subjects held include the development of hydroelectric power, agriculture, transportation, community development, women in aviation, and the ice age floods.</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

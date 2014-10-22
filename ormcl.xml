@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<arch:Archive rdf:about="nwda:ormcl">
-      <foaf:name>Linfield College Archives.</foaf:name>
-      <foaf:homepage rdf:resource="http://www.linfield.edu/linfield-libraries/archives-special-collections.html"/>
-      <vcard:hasEmail rdf:resource="mailto:archives@linfield.edu"/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address>Jereld R. Nicholson Library</vcard:street-address>
-            <vcard:street-address>900 SE Baker St.</vcard:street-address>
-            <vcard:street-address>A522</vcard:street-address>
-            <vcard:locality>McMinnville, OR</vcard:locality>
-         	<vcard:postal-code>97128-6894</vcard:postal-code>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource="tel:+5038832734"/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-      <vcard:hasTelephone>
-         <vcard:Fax>
-            <vcard:hasValue rdf:resource="tel:+5038832566"/>
-         </vcard:Fax>
-      </vcard:hasTelephone>
-      <nwda:visitation rdf:resource="http://www.linfield.edu/linfield-libraries/archives-special-collections.html"/>
-      <nwda:facsimile>Researchers should contact the archivist via email or phone to request copies from the collections. There is no set fee schedule, although we reserve the right to assess a fee for extensive copy requests.</nwda:facsimile>
-      <dcterms:description>Linfield College and the Jereld R. Nicholson Library are home to the Oregon Wine History Archive (OWHA), established in 2011, which chronicles the Oregon wine industry and includes historical documents from early wine pioneers. OWHA's goal is to document all aspects and regions of the Oregon wine industry and to collect and preserve historical materials from winery owners, growers, researchers, marketers and sellers. The Linfield College Archives also house collections covering the history of the college and of Yamhill County and the Willamette Valley, as well as American Baptist history. The collections include books, journals, photographs, manuscripts, and student theses.</dcterms:description>
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	   <arch:Archive rdf:about="nwda:ormcl">
+        <foaf:name>Linfield College Archives</foaf:name>
+        <foaf:homepage rdf:resource="http://www.linfield.edu/linfield-libraries/archives-special-collections.html"/>
+        <vcard:hasEmail rdf:resource="mailto:archives@linfield.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Jereld R. Nicholson Library</vcard:street-address>
+                <vcard:street-address>900 SE Baker St.</vcard:street-address>
+                <vcard:street-address>A522</vcard:street-address>
+                <vcard:locality>McMinnville, OR</vcard:locality>
+         	      <vcard:postal-code>97128-6894</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5038832734"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+5038832566"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation rdf:resource="http://www.linfield.edu/linfield-libraries/archives-special-collections.html"/>
+        <nwda:facsimile>Researchers should contact the archivist via email or phone to request copies from the collections. There is no set fee schedule, although we reserve the right to assess a fee for extensive copy requests.</nwda:facsimile>
+        <dcterms:description>Linfield College and the Jereld R. Nicholson Library are home to the Oregon Wine History Archive (OWHA), established in 2011, which chronicles the Oregon wine industry and includes historical documents from early wine pioneers. OWHA's goal is to document all aspects and regions of the Oregon wine industry and to collect and preserve historical materials from winery owners, growers, researchers, marketers and sellers. The Linfield College Archives also house collections covering the history of the college and of Yamhill County and the Willamette Valley, as well as American Baptist history. The collections include books, journals, photographs, manuscripts, and student theses.</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

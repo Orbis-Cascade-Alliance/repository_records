@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<arch:Archive rdf:about="nwda:orpcc">
-      <foaf:name>Concordia University</foaf:name>
-      <foaf:homepage rdf:resource="http://www.cu-portland.edu/library/archives/"/>
-      <vcard:hasEmail rdf:resource=""/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address/>
-            <vcard:locality/>
-            <vcard:postal-code/>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource=""/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	   <arch:Archive rdf:about="nwda:orpcc">
+        <foaf:name>Concordia University</foaf:name>
+        <foaf:homepage rdf:resource="http://www.cu-portland.edu/library/archives/"/>
+        <vcard:hasEmail rdf:resource="mailto:library@cu-portland.edu "/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>2811 NE Holman St.</vcard:street-address>
+                <vcard:locality>Portland, OR</vcard:locality>
+                <vcard:postal-code>97211-6099</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5032808507"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
    </arch:Archive>
 </rdf:RDF>
