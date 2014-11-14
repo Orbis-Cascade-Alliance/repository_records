@@ -7,7 +7,7 @@
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<arch:Archive rdf:about="nwda:wae1c">
-      <foaf:name>Central Washington University. Archives and Special Collections</foaf:name>
+      <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Central Washington University. Archives and Special Collections</foaf:name>
       <foaf:homepage rdf:resource="https://www.lib.cwu.edu/Archives-Special-Collections"/>
       <vcard:hasEmail rdf:resource="mailto:archives@cwu.edu"/>
       <vcard:hasAddress>

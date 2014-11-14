@@ -7,7 +7,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
    <arch:Archive rdf:about="nwda:wea">
-        <foaf:name>Eastern Washington University, Special Collections Library</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Eastern Washington University, Special Collections Library</foaf:name>
         <foaf:homepage rdf:resource="http://www.ewu.edu/library/services/archives.xml"/>
         <vcard:hasEmail rdf:resource="mailto:archives@ewu.edu"/>
         <vcard:hasAddress>

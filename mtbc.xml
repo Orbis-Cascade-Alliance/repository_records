@@ -7,7 +7,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="nwda:mtbc">
-        <foaf:name>Montana State University. Library, Merrill G Burlingame Special Collections</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Montana State University. Library, Merrill G Burlingame Special Collections</foaf:name>
         <foaf:homepage rdf:resource="http://www.lib.montana.edu/archives/"/>
         <vcard:hasEmail rdf:resource="mailto:spcoll@www.lib.montana.edu"/>
         <vcard:hasAddress>

@@ -7,7 +7,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="nwda:orngf">
-        <foaf:name>George Fox University, Northwest Yearly Meeting of Friends Church Archives</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>George Fox University, Northwest Yearly Meeting of Friends Church Archives</foaf:name>
         <foaf:homepage rdf:resource="http://www.georgefox.edu/offices/murdock/Archives/"/>
         <vcard:hasEmail rdf:resource="mailto:zclark@georgefox.edu"/>
         <vcard:hasAddress>

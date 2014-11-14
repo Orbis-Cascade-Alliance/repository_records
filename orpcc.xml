@@ -7,7 +7,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="nwda:orpcc">
-        <foaf:name>Concordia University</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Concordia University</foaf:name>
         <foaf:homepage rdf:resource="http://www.cu-portland.edu/library/archives/"/>
         <vcard:hasEmail rdf:resource="mailto:library@cu-portland.edu "/>
         <vcard:hasAddress>

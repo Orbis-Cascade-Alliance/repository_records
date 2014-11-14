@@ -7,7 +7,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="nwda:wabewwuh">
-        <foaf:name>Western Washington University, Heritage Resources</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Western Washington University, Heritage Resources</foaf:name>
         <foaf:homepage rdf:resource="http://www.library.wwu.edu/heritageresources"/>
         <vcard:hasEmail rdf:resource="mailto:Heritage.Resources@wwu.edu"/>
         <vcard:hasAddress>
