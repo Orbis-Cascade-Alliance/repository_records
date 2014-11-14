@@ -30,7 +30,8 @@
             </vcard:Fax>
         </vcard:hasTelephone>
         
-        <nwda:facsimile>he Archives and special Collections provides photocopy and scanning services for a fee. Photocopies are $0.25/image, and tif scans are $1.00/image.</nwda:facsimile>
+        <nwda:facsimile>The Archives and Special Collections provides photocopy and scanning services for a fee. Photocopies are $0.25/image, and TIF scans are $1.00/image.</nwda:facsimile>
         <dcterms:description>The Archives and Special Collections department at Pacific Lutheran University is comprised of four different entities: The University Archives; The Scandinavian Immigrant Experience Collection; The ELCA Region I Archives and the Nisqually Plains Collection. The University Archives collects, maintains and makes available university records from its founding in 1890. The Scandinavian Immigrant Experience Collection contains materials relating to Scandinavian immigrants who settled in the United States, particularly in the Pacific Northwest. The Evangelical Lutheran Church in America (ELCA) Region I Archives contains records documenting the history of the Lutheran Church in the Northwest including Alaska, Idaho, Montana, Oregon and Washington. The Nisqually Plains Collections focuses on the regional history of the Pacific Northwest with particular emphasis on Western Washington</dcterms:description>
-   </arch:Archive>
+        <nwda:visitation>Here is some visitation info.</nwda:visitation>
+    </arch:Archive>
 </rdf:RDF>

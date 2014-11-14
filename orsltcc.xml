@@ -22,5 +22,6 @@
 				            <vcard:hasValue rdf:resource="tel:+5414442450"/>
 			         </vcard:Voice>
 		      </vcard:hasTelephone>
-	   </arch:Archive>
+	       <dcterms:description>Here is some collection information.</dcterms:description>
+    </arch:Archive>
 </rdf:RDF>

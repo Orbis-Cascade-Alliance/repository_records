@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/ewg118/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<arch:Archive rdf:about="nwda:orbec">
-      <foaf:name>Central Oregon Community College</foaf:name>
-      <foaf:homepage rdf:resource="http://www.cocc.edu/Library/"/>
-      <vcard:hasEmail rdf:resource=""/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address/>
-            <vcard:locality/>
-            <vcard:postal-code/>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource=""/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-   </arch:Archive>
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	   <arch:Archive rdf:about="nwda:orbec">
+        <foaf:name>Central Oregon Community College</foaf:name>
+        <foaf:homepage rdf:resource="http://www.cocc.edu/Library/"/>
+        <vcard:hasEmail rdf:resource="mailto:email@cocc.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>address</vcard:street-address>
+                <vcard:locality>Bend, OR</vcard:locality>
+                <vcard:postal-code>91111</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5415551212"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <dcterms:description>This is some information about collections.</dcterms:description>
+    </arch:Archive>
 </rdf:RDF>

@@ -26,5 +26,6 @@
         </vcard:hasTelephone>
         <nwda:facsimile>For more information about this resource or to request copies, please contact heritage.resources@wwu.edu</nwda:facsimile>
       
-   </arch:Archive>
+        <dcterms:description>The Heritage Resources unit provides for responsible stewardship of and access to unique and archival resources in support of teaching, learning and research at Western Washington University and beyond. The Center for Pacific Northwest Studies, Western Libraries Special Collections, and WWU Archives and Records Center work together to document the culture and history of Western, the local community and Pacific Northwest region, and to promote public and scholarly access to holdings.</dcterms:description>
+    </arch:Archive>
 </rdf:RDF>
