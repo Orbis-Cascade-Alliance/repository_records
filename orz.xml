@@ -6,7 +6,7 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-   <arch:Archive rdf:about="nwda:orz">
+   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orz">
         <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Portland State University, Special Collections &amp; University Archives</foaf:name>
         <foaf:homepage rdf:resource="http://library.pdx.edu/specialcollections.html"/>
         <vcard:hasEmail rdf:resource="mailto:specialcollections@lists.pdx.edu"/>

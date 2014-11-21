@@ -6,7 +6,7 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-	   <arch:Archive rdf:about="nwda:wau-ar">
+	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#wau-ar">
         <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>University of Washington Librarires, Special Collections.</foaf:name>
         <foaf:homepage rdf:resource="http://www.lib.washington.edu/specialcollections/"/>
         <vcard:hasEmail rdf:resource="mailto:speccoll@uw.edu"/>

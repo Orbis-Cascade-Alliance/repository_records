@@ -6,7 +6,7 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-   <arch:Archive rdf:about="nwda:orcsar">
+   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orcsar">
         <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Oregon State University Libraries, Special Collections &amp; Archives Research Center.</foaf:name>
         <foaf:homepage rdf:resource="http://scarc.library.oregonstate.edu"/>
         <vcard:hasEmail rdf:resource="mailto:scarc@oregonstate.edu"/>

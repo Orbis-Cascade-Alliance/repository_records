@@ -6,7 +6,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<arch:Archive rdf:about="nwda:waspw">
+	<arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#waspw">
       <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Whitworth University Archives</foaf:name>
 		<foaf:homepage rdf:resource="http://www.whitworth.edu/library/archives"/>
       <vcard:hasEmail rdf:resource="mailto:jhauck@whitworth.edu"/>

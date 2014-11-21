@@ -6,7 +6,7 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-   <arch:Archive rdf:about="nwda:mtg">
+   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#mtg">
         <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>University of Montana, Mansfield Library, Archives and Special Collections</foaf:name>
         <foaf:homepage rdf:resource="http://www.lib.umt.edu/asc"/>
         <vcard:hasEmail rdf:resource="mailto:library.archives@umontana.edu"/>
