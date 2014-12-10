@@ -16,7 +16,7 @@
                 <vcard:street-address>University of Washington Libraries</vcard:street-address>
                 <vcard:street-address>BOX 352900</vcard:street-address>
                 <vcard:locality>Seattle, WA</vcard:locality>
-         	      <vcard:postal-code>98195-2900</vcard:postal-code>\
+         	      <vcard:postal-code>98195-2900</vcard:postal-code>
          </rdf:Description>
         </vcard:hasAddress>
         <vcard:hasTelephone>
