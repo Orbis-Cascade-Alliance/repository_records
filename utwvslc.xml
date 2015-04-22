@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#">
+	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#utwvslc">
+		      <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+		      <foaf:name>Salt Lake County Archives</foaf:name>
+		      <foaf:homepage rdf:resource="http://http://admin.slco.org/archives/"/>
+		      <vcard:hasEmail rdf:resource="mailto:archives@slco.org"/>
+		      <vcard:hasAddress>
+			         <rdf:Description>
+				            <vcard:street-address>4505 South 5600 West</vcard:street-address>
+				            <vcard:locality>West Valley City, UT</vcard:locality>
+				            <vcard:postal-code>84120</vcard:postal-code>
+			         </rdf:Description>
+		      </vcard:hasAddress>
+		      <vcard:hasTelephone>
+			         <vcard:Voice>
+				            <vcard:hasValue rdf:resource="tel:+3854680820"/>
+			         </vcard:Voice>
+		      </vcard:hasTelephone>
+	   </arch:Archive>
+</rdf:RDF>

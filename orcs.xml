@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orcs">
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Oregon State University Libraries, Special Collections &amp; Archives Research Center.</foaf:name>
+        <foaf:homepage rdf:resource="http://scarc.library.oregonstate.edu"/>
+        <vcard:hasEmail rdf:resource="mailto:scarc@oregonstate.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Special Collections &amp; Archives Research Center</vcard:street-address>
+                <vcard:street-address>121 The Valley Library</vcard:street-address>
+                <vcard:street-address>Oregon State University</vcard:street-address>
+                <vcard:street-address>Corvallis OR</vcard:street-address>
+         	      <vcard:postal-code>97331-4501</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5417372075"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+5417378674"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation rdf:resource="http://scarc.library.oregonstate.edu/visiting-guide.html"/>
+        <nwda:facsimile>The Special Collections &amp; Archives Research Center provides photocopy and scanning services for a fee. Reproduction fees may apply for some uses of materials from the collections. The Fee Schedule is available online: http://scarc.library.oregonstate.edu/fees.html. Information about reproduction for research and publication purposes is available here: http://scarc.library.oregonstate.edu/duplication.html Permissions forms are available here: http://scarc.library.oregonstate.edu/permissions.html</nwda:facsimile>
+        <dcterms:description>The Oregon State University Libraries Special Collections &amp; Archives Research Center (SCARC) maintains and makes available the University's unique collections of manuscripts, archives, photographs, and books. Its holdings include materials pertaining to the history of science and technology, with the Ava Helen and Linus Pauling Papers as the cornerstone collection; the history of OSU and the contributions of prominent OSU faculty and alumni; cultural and ethnic groups in Oregon; and natural resources in the Pacific Northwest, especially agriculture, forestry, and wildlife conservation.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

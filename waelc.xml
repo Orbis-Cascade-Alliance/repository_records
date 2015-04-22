@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#waelc">
+      <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Central Washington University. Archives and Special Collections</foaf:name>
+      <foaf:homepage rdf:resource="https://www.lib.cwu.edu/Archives-Special-Collections"/>
+      <vcard:hasEmail rdf:resource="mailto:archives@cwu.edu"/>
+      <vcard:hasAddress>
+         <rdf:Description>
+            <vcard:street-address>Archives and Special Collections</vcard:street-address>
+            <vcard:street-address>Central Washington University</vcard:street-address>
+            <vcard:street-address>400 E University Way</vcard:street-address>
+            <vcard:locality>Ellensburg, WA</vcard:locality>
+            <vcard:postal-code>98926</vcard:postal-code>
+         </rdf:Description>
+      </vcard:hasAddress>
+      <vcard:hasTelephone>
+         <vcard:Voice>
+            <vcard:hasValue rdf:resource="tel:+5099631717"/>
+         </vcard:Voice>
+      </vcard:hasTelephone>
+      <vcard:hasTelephone>
+         <vcard:Fax>
+            <vcard:hasValue rdf:resource="tel:+5099633684"/>
+         </vcard:Fax>
+      </vcard:hasTelephone>
+      <nwda:visitation>During the academic year, the Archives and Special Collections at Central Washington University is open from 10 am to 2 pm, Monday through Friday. The Archives is closed on holidays, and open during the summer and intercession by appointment only. Please consult the Archives' website for hours and directions: http://www.lib.cwu.edu/Contact-us-0 Anyone with a research interest---students, faculty, staff, or the general public---may use CWU's collections.</nwda:visitation>
+      <nwda:facsimile>Reproduction fees may apply for some uses of materials from the Archives' collections. Information about reproduction services and research room policy is available here: https://www.lib.cwu.edu/Archives-and-Special-Collection-Research-Room-Policy</nwda:facsimile>
+      <dcterms:description>Central Washington University's Archives and Special Collections maintains a unique collection of manuscripts, archives, photographs, memorabilia, and books. It collects materials pertinent to the history of Central Washington University and its origins as a teaching college. The Archives also features collections highlighting mining, ranching, dam construction, women's history, logging, agriculture, and politics in the central Washington region.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

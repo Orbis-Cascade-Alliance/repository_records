@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orhi">
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Oregon Historical Society, Davies Family Research Library</foaf:name>
+        <foaf:homepage rdf:resource="http://www.ohs.org/research/library/"/>
+        <vcard:hasEmail rdf:resource="mailto:libreference@ohs.org"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Davies Family Research Library</vcard:street-address>
+                <vcard:street-address>Oregon Historical Society</vcard:street-address>
+                <vcard:street-address>1200 SW Park Avenue</vcard:street-address>
+                <vcard:locality>Portland, OR</vcard:locality>
+                <vcard:postal-code>97205</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5033065240"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+5032192040"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation rdf:resource="http://www.ohs.org/research/library/visit-library.cfm"/>
+        <nwda:facsimile rdf:resource="http://www.ohs.org/research/library/services/"/>
+        <dcterms:description>Through the generosity of Oregon’s citizens and friends, the Oregon Historical Society Research Library has gathered one of the most comprehensive collections of local, state, and regional history in the country, with holdings that chronicle the history of the Oregon Country from early exploration to the present day. Although the Oregon Historical Society is a private, non-profit institution, its resources are held in trust for the State of Oregon, and it functions as the state historical society. Collection strengths include: European discovery, exploration, and settlement; Native Americans; local history, family history, and genealogy; the fur trade; agriculture, timber, mining, and fisheries; performing arts; business; architecture and building history; politics and government; religion; and transportation. The Research Library houses more than 32,000 books, 25,000 maps, 12,500 linear feet of manuscripts, 4,000 serials titles, 6,000 vertical files, 18,000 reels of newspaper microfilm, 8.5 million feet of film and videotape, 10,000 oral history tapes, and more than 2.5 million photographs.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>

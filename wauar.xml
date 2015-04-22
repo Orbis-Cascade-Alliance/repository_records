@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:arch="http://purl.org/archival/vocab/arch#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#wauar">
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>University of Washington Librarires, Special Collections.</foaf:name>
+        <foaf:homepage rdf:resource="http://www.lib.washington.edu/specialcollections/"/>
+        <vcard:hasEmail rdf:resource="mailto:speccoll@uw.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Special Collections</vcard:street-address>
+                <vcard:street-address>University of Washington Libraries</vcard:street-address>
+                <vcard:street-address>BOX 352900</vcard:street-address>
+                <vcard:locality>Seattle, WA</vcard:locality>
+         	      <vcard:postal-code>98195-2900</vcard:postal-code>
+         </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+2065431929"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+2065431931"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation rdf:resource="http://www.lib.washington.edu/specialcollections/research/using-the-collections"/>
+        <nwda:facsimile rdf:resource="http://www.lib.washington.edu/specialcollections/services/reproduction-services"/>
+        <dcterms:description>Special Collections provides service and care of valuable, rare and unique materials. The Historical Photographs, Manuscripts, Pacific Northwest, and Architectural Drawings collections focus on the history and culture of the Pacific Northwest, including Alaska and Western Canada. Collection sources include members of Congress, regional photographers, pioneers and settlers, and local Japanese, Jewish and Scandinavian communities. Another specialty is travel and overland and maritime exploration literature, particularly relating to the discovery of the Pacific Northwest. The University Archives is responsible for records of UW offices and student organizations, and personal papers of prominent faculty and administrators. The Book Arts Collection features both historical and modern pieces relating to all aspects of the physical book. Collections of authors spanning the 18th to 20th centuries include significant regional poets, and a major collection of 19th century American literature. Reference collections emphasize the history of books and printing, regional and local history and materials on the preservation of books and paper. All collections are non-circulating and restrictions on use may apply.</dcterms:description>
+   </arch:Archive>
+</rdf:RDF>
