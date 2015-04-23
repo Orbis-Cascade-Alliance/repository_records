@@ -2,12 +2,13 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-         xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+         xmlns:nwda="https://github.com/Orbis-Cascade-Alliance/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#wasu">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Seattle University, Lemieux Library &amp; McGoldrick Learning Commons. Special Collections</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        <foaf:name>Seattle University, Lemieux Library and McGoldrick Learning Commons, Special Collections</foaf:name>
         <foaf:homepage rdf:resource="http://www.seattleu.edu/library/about/collections/special/ "/>
         <vcard:hasEmail rdf:resource="mailto:speccoll@seattleu.edu"/>
         <vcard:hasAddress>
