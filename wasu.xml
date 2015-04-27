@@ -23,12 +23,12 @@
         </vcard:hasAddress>
         <vcard:hasTelephone>
             <vcard:Voice>
-                <vcard:hasValue rdf:resource="tel:+2062966210"/>
+                <vcard:hasValue rdf:resource="tel:+2062966209"/>
             </vcard:Voice>
         </vcard:hasTelephone>
         <vcard:hasTelephone>
             <vcard:Fax>
-                <vcard:hasValue rdf:resource="tel:+2062962575"/>
+                <vcard:hasValue rdf:resource="tel:+2062966224"/>
             </vcard:Fax>
         </vcard:hasTelephone>
         <nwda:visitation rdf:resource="http://www.seattleu.edu/library/about/collections/request/"/>
