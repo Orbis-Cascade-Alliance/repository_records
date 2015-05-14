@@ -22,7 +22,7 @@
         </vcard:hasAddress>
         <vcard:hasTelephone>
             <vcard:Voice>
-                <vcard:hasValue rdf:resource="tel:+5099631717"/>
+                <vcard:hasValue rdf:resource="tel:+5099631023"/>
             </vcard:Voice>
         </vcard:hasTelephone>
         <vcard:hasTelephone>

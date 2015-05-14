@@ -7,7 +7,8 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#waww">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Whitman College and Northwest Archives</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        <foaf:name>Whitman College and Northwest Archives</foaf:name>
         <foaf:homepage rdf:resource="http://www.whitman.edu/library/archives"/>
         <vcard:hasEmail rdf:resource="mailto:archives@whitman.edu"/>
         <vcard:hasAddress>
@@ -26,11 +27,11 @@
         </vcard:hasTelephone>
         <vcard:hasTelephone>
             <vcard:Fax>
-                <vcard:hasValue rdf:resource="tel:+5095275900"/>
+                <vcard:hasValue rdf:resource="tel:+5095264785"/>
             </vcard:Fax>
         </vcard:hasTelephone>
         <nwda:visitation rdf:resource="http://www.whitman.edu/library/archives/research-services"/>
-        <nwda:facsimile>University Archives provides photocopy and scanning services. Reproduction fees may apply for some uses of materials from the collections.</nwda:facsimile>
+        <nwda:facsimile>The archives provides photocopy and scanning services. Reproduction fees may apply for some uses of materials from the collections.</nwda:facsimile>
         <dcterms:description rdf:resource="http://www.whitman.edu/library/archives/about-collections"/>
    </arch:Archive>
 </rdf:RDF>

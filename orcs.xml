@@ -31,7 +31,12 @@
             </vcard:Fax>
         </vcard:hasTelephone>
         <nwda:visitation rdf:resource="http://scarc.library.oregonstate.edu/visiting-guide.html"/>
-        <nwda:facsimile>The Special Collections &amp; Archives Research Center provides photocopy and scanning services for a fee. Reproduction fees may apply for some uses of materials from the collections. The Fee Schedule is available online: http://scarc.library.oregonstate.edu/fees.html. Information about reproduction for research and publication purposes is available here: http://scarc.library.oregonstate.edu/duplication.html Permissions forms are available here: http://scarc.library.oregonstate.edu/permissions.html</nwda:facsimile>
+        <nwda:facsimile>The Special Collections &amp; Archives Research Center (SCARC) provides access to reproductions of its content as a means of facilitating research, publication, and scholarly discourse.  Detailed guidelines can be found on SCARC's Reproduction &amp; Use page: http://scarc.library.oregonstate.edu/duplication.html
+Questions may be directed to: scarc@oregonstate.edu</nwda:facsimile>
         <dcterms:description>The Oregon State University Libraries Special Collections &amp; Archives Research Center (SCARC) maintains and makes available the University's unique collections of manuscripts, archives, photographs, and books. Its holdings include materials pertaining to the history of science and technology, with the Ava Helen and Linus Pauling Papers as the cornerstone collection; the history of OSU and the contributions of prominent OSU faculty and alumni; cultural and ethnic groups in Oregon;  natural resources in the Pacific Northwest, especially agriculture, forestry, and wildlife conservation; and the history of hops and brewing in Oregon.</dcterms:description>
-   </arch:Archive>
+        <nwda:facsimile xmlns:nwda="https://github.com/ewg118/nwda-editor#">The Special Collections &amp; Archives Research Center (SCARC) provides access to reproductions of its content as a means of facilitating research, publication, and scholarly discourse.  Detailed guidelines can be found on SCARC's Reproduction &amp; Use page: http://scarc.library.oregonstate.edu/duplication.html
+Questions may be directed to: scarc@oregonstate.edu</nwda:facsimile>
+        <nwda:visitation xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+                         rdf:resource="http://scarc.library.oregonstate.edu/visiting-guide.html"/>
+    </arch:Archive>
 </rdf:RDF>

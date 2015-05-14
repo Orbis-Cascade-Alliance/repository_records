@@ -7,7 +7,8 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
    <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#waplp">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Pacific Lutheran University, Archives and Special Collections</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        <foaf:name>Pacific Lutheran University, Archives and Special Collections</foaf:name>
         <foaf:homepage rdf:resource="http://www.plu.edu/archives"/>
         <vcard:hasEmail rdf:resource="mailto:archives@plu.edu"/>
         <vcard:hasAddress>
@@ -30,8 +31,8 @@
             </vcard:Fax>
         </vcard:hasTelephone>
         
-        <nwda:facsimile>The Archives and Special Collections provides photocopy and scanning services for a fee. Photocopies are $0.25/image, and TIF scans are $1.00/image.</nwda:facsimile>
+        <nwda:facsimile>The Archives and Special Collections provides photocopy and scanning services for a fee. Photocopies are $0.25/image, and TIF scans are $1.00/image. Permission for Use form can be found on the website at http://www.plu.edu/archives.</nwda:facsimile>
         <dcterms:description>The Archives and Special Collections department at Pacific Lutheran University is comprised of four different entities: The University Archives; The Scandinavian Immigrant Experience Collection; The ELCA Region I Archives and the Nisqually Plains Collection. The University Archives collects, maintains and makes available university records from its founding in 1890. The Scandinavian Immigrant Experience Collection contains materials relating to Scandinavian immigrants who settled in the United States, particularly in the Pacific Northwest. The Evangelical Lutheran Church in America (ELCA) Region I Archives contains records documenting the history of the Lutheran Church in the Northwest including Alaska, Idaho, Montana, Oregon and Washington. The Nisqually Plains Collections focuses on the regional history of the Pacific Northwest with particular emphasis on Western Washington</dcterms:description>
-        <nwda:visitation>Here is some visitation info.</nwda:visitation>
+        <nwda:visitation>Use of material in the archive is limited to our research area.  Patrons must fill in an"Application for Use of Material form"and follow the rules listed on the back of the form.  </nwda:visitation>
     </arch:Archive>
 </rdf:RDF>

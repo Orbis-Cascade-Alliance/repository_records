@@ -9,7 +9,7 @@
 	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#US-ula">
         <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
         <foaf:name>Utah State University, Merrill-Cazier Library, Special Collections and Archives Division</foaf:name>
-        <foaf:homepage rdf:resource="https://library.usu.edu/specol"/>
+        <foaf:homepage rdf:resource="https://archives.usu.edu"/>
         <vcard:hasEmail rdf:resource="mailto:scweb@usu.edu"/>
         <vcard:hasAddress>
             <rdf:Description>
@@ -30,8 +30,8 @@
                 <vcard:hasValue rdf:resource="tel:+4357972880"/>
             </vcard:Fax>
         </vcard:hasTelephone>
-        <nwda:visitation rdf:resource="https://library.usu.edu/specol"/>
-        <nwda:facsimile>The Special Collections &amp; Archives division provides photocopy and scanning services for a fee. Information about copying policies and links to forms can be found online: https://library.usu.edu/specol/using/copies.php Information about reproduction for research and publication purposes can be found online: https://library.usu.edu/specol/using/permissions.pdf</nwda:facsimile>
+        <nwda:visitation rdf:resource="https://archives.usu.edu/using.php"/>
+        <nwda:facsimile>The Special Collections &amp; Archives division provides photocopy and scanning services for a fee. Information about copying policies and links to forms can be found online: https://archives.usu.edu Information about reproduction for research and publication purposes can be found online: https://archives.usu.edu/forms</nwda:facsimile>
         <dcterms:description>The Division of Special Collections and Archives preserves and makes available the University’s unique collections of archives, photographs, manuscripts and books owned by the Utah State University Libraries. Holdings include Mormon and Utah history including the papers of historians Leonard J. Arrington and S. George Ellsworth; western environmental and agricultural history; the history of Utah State University; western literature including the papers of Jack London; Beat and modern poetry; and the Fife Folklore Archives.</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

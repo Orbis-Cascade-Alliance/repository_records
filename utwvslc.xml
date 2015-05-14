@@ -23,5 +23,6 @@
 				            <vcard:hasValue rdf:resource="tel:+3854680820"/>
 			         </vcard:Voice>
 		      </vcard:hasTelephone>
-	   </arch:Archive>
+	       <nwda:visitation xmlns:nwda="https://github.com/ewg118/nwda-editor#">Research is by appointment only. The public may call or email to make a request or to schedule a research appointment.</nwda:visitation>
+    </arch:Archive>
 </rdf:RDF>

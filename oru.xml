@@ -7,7 +7,8 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
    <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#oru">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>University of Oregon Libraries, Special Collections and University Archives.</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        <foaf:name>University of Oregon Libraries, Special Collections and University Archives.</foaf:name>
         <foaf:homepage rdf:resource="http://library.uoregon.edu/speccoll/index.html"/>
         <vcard:hasEmail rdf:resource="mailto:spcarref@uoregon.edu"/>
         <vcard:hasAddress>
@@ -28,8 +29,8 @@
                 <vcard:hasValue rdf:resource="tel:+5413463485 attn SCUA"/>
             </vcard:Fax>
         </vcard:hasTelephone>
-        <nwda:visitation>The Special Collections &amp; University Archives Paulson Reading Room hours can be found on our Google calendar. Anyone with a research interest – students, faculty, staff, or the general public – may use the collections. Not all collections are housed on-site, please see our website for more information on access to collections.</nwda:visitation>
+        <nwda:visitation>The Special Collections &amp; University Archives Paulson Reading Room hours can be found on our Current Hours calendar. Anyone with a research interest – students, faculty, staff, or the general public – may use the collections. Not all collections are housed on-site, please see our website for more information on access to collections.</nwda:visitation>
         <nwda:facsimile>The Special Collections &amp; University Archives provides photocopy and scanning services for a fee. The Fees &amp; Rates Schedule for Special Collections Services is available online: http://library.uoregon.edu/speccoll/rates.html. Information about high-resolution digital images of materials is available here: http://library.uoregon.edu/permissions. Under limited circumstances, we allow researchers to use their own cameras to photograph certain materials.</nwda:facsimile>
-        <dcterms:description>Special Collections and University Archives hold over 3,000 collections, constituting more than a million items ranging from medieval codices and rare books to literary and historical manuscripts, university archives, original art, photographs, architectural drawings, and ephemera. The department preserves the political, social, economic, and literary history of the United States with an emphasis on regional history, and provides curriculum support for on campus researchers, and assistance to amateur and scholarly researchers in many fields.</dcterms:description>
+        <dcterms:description>Special Collections and University Archives is the primary repository for the University of Oregon's archives, rare books, historic photographs, and one of the largest historical manuscripts collections in the Pacific Northwest. The department preserves the political, social, economic, and literary history of the United States with an emphasis on regional history, and provides curriculum support for on campus researchers, and assistance to amateur and scholarly researchers in many fields.</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

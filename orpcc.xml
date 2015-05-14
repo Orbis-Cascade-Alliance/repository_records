@@ -7,8 +7,9 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orpcc">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Concordia University</foaf:name>
-        <foaf:homepage rdf:resource="http://www.cu-portland.edu/library/archives/"/>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        <foaf:name>Concordia University</foaf:name>
+        <foaf:homepage rdf:resource="http://http://www.cu-portland.edu/academics/library/university-archives"/>
         <vcard:hasEmail rdf:resource="mailto:library@cu-portland.edu "/>
         <vcard:hasAddress>
             <rdf:Description>
@@ -22,6 +23,6 @@
                 <vcard:hasValue rdf:resource="tel:+5032808507"/>
             </vcard:Voice>
         </vcard:hasTelephone>
-        <dcterms:description>Here is some collection info. </dcterms:description>
+        <dcterms:description>Concordia University Archives; Archives of the Northwest District, the Lutheran Church--Missouri Synod; and the Archives of the Center for Volga German Studies.</dcterms:description>
     </arch:Archive>
 </rdf:RDF>

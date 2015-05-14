@@ -7,7 +7,8 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orkt">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Oregon Institute of Technology Libraries, Shaw Historical Library</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        <foaf:name>Oregon Institute of Technology Libraries, Shaw Historical Library</foaf:name>
 		      <foaf:homepage rdf:resource="http://www.oit.edu/libraries"/>
         <vcard:hasEmail rdf:resource="mailto:libtech@oit.edu"/>
         <vcard:hasAddress>
@@ -29,7 +30,7 @@
             </vcard:Fax>
         </vcard:hasTelephone>
 		      <nwda:visitation rdf:resource="http://digitallib.oit.edu/cdm/copyright/collection/kwdl"/>
-		      <nwda:facsimile rdf:resource="http://digitallib.oit.edu/cdm/copyright/collection/kwdl"/>
-        <dcterms:description>The Klamath Waters Digital Library is an online repository of information resources related to water issues in the Klamath Watershed. The digital library encompasses a collection of full-text documents, reports, articles, photographs and maps from the 1800s to the present as well as many special collections. Topics covered include water allocation, land and endangered species management, and the history and development of Klamath Reclamation Project. The Oregon Tech University Archives is the memory of Oregon Tech and the repository of its history. The Oregon Tech University Archives contain the permanent materials that document the history of Oregon Tech. The Shaw Historical Library is a five star rated archive located in Southern Oregon in the town of Klamath Falls. The Library specializes in research collections about the history of the "Land of the Lakes" which includes Klamath Falls, Klamath County, the Klamath Basin, Northern California's Siskiyou and Modoc Counties and Washoe County in Western Nevada.</dcterms:description>
+		      <nwda:facsimile rdf:resource="http://www.oit.edu/shaw/research/fees"/>
+        <dcterms:description>http://www.oit.edu/shaw</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

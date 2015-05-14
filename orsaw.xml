@@ -1,36 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/Orbis-Cascade-Alliance/nwda-editor#"
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orsaw">
-      <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Willamette University Archives and Special Collections</foaf:name>
-      <foaf:homepage rdf:resource="http://library.willamette.edu/archives/"/>
-      <vcard:hasEmail rdf:resource="mailto:archives@willamette.edu"/>
-      <vcard:hasAddress>
-         <rdf:Description>
-            <vcard:street-address>Archives and Special Collection</vcard:street-address>
-            <vcard:street-address>Mark O. Hatfield Library</vcard:street-address>
-            <vcard:street-address>900 State Street</vcard:street-address>
-            <vcard:locality>Salem, OR</vcard:locality>
-            <vcard:postal-code>97301</vcard:postal-code>
-         </rdf:Description>
-      </vcard:hasAddress>
-      <vcard:hasTelephone>
-         <vcard:Voice>
-            <vcard:hasValue rdf:resource="tel:+5033706866"/>
-         </vcard:Voice>
-      </vcard:hasTelephone>
-      <vcard:hasTelephone>
-         <vcard:Fax>
-            <vcard:hasValue rdf:resource="tel:+5033706141"/>
-         </vcard:Fax>
-      </vcard:hasTelephone>
-      <nwda:visitation>Willamette University Archives and Special Collections is located on the 2nd floor of the Mark O. Hatfield Library and is open 9:00 - noon; 1:00 - 4:00 Monday - Friday, with the exception of Willamette University holidays. The Archives and Special Collections welcomes users from the Willamette community as well as members of the public.</nwda:visitation>
-      <nwda:facsimile>A list of reproduction services offered by the Archives and Special Collections is available here: http://library.willamette.edu/archives/policies/repro/ For permission to publish, quote, broadcast, perform, or exhibit, contact the University Archivist at: http://library.willamette.edu/archives/contact/</nwda:facsimile>
-      <dcterms:description>Archives and Special Collections collects, preserves, and makes available University records of enduring value and primary source materials focusing on the Northwest. This rich collection is a valuable resource for researchers, historians and the general public. Of particular note are Congressional and political papers and the Pacific Northwest Artists Archive. Special Collections include such treasures as a 15th century book of hours, a second folio edition of Shakespeare's plays, and a first edition of Samuel Johnson's dictionary.</dcterms:description>
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orsaw">
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        <foaf:name>Willamette University Archives and Special Collections</foaf:name>
+        <foaf:homepage rdf:resource="http://library.willamette.edu/archives/"/>
+        <vcard:hasEmail rdf:resource="mailto:archives@willamette.edu"/>
+        <vcard:hasAddress>
+            <rdf:Description>
+                <vcard:street-address>Archives and Special Collections</vcard:street-address>
+                <vcard:street-address>Mark O. Hatfield Library</vcard:street-address>
+                <vcard:street-address>900 State Street</vcard:street-address>
+                <vcard:locality>Salem, OR</vcard:locality>
+                <vcard:postal-code>97301</vcard:postal-code>
+            </rdf:Description>
+        </vcard:hasAddress>
+        <vcard:hasTelephone>
+            <vcard:Voice>
+                <vcard:hasValue rdf:resource="tel:+5033706866"/>
+            </vcard:Voice>
+        </vcard:hasTelephone>
+        <vcard:hasTelephone>
+            <vcard:Fax>
+                <vcard:hasValue rdf:resource="tel:+5033706141"/>
+            </vcard:Fax>
+        </vcard:hasTelephone>
+        <nwda:visitation>Willamette University Archives and Special Collections is located on the 2nd floor of the Mark O. Hatfield Library and is open 9:00 - noon; 1:00 - 4:00 Monday - Friday, with the exception of Willamette University holidays. The Archives and Special Collections welcomes users from the Willamette community as well as members of the public.</nwda:visitation>
+        <nwda:facsimile>A list of reproduction services offered by the Archives and Special Collections is available here: http://library.willamette.edu/archives/policies/repro/ For permission to publish, quote, broadcast, perform, or exhibit, contact the University Archivist at: http://library.willamette.edu/archives/contact/</nwda:facsimile>
+        <dcterms:description>Archives and Special Collections collects, preserves, and makes available University records of enduring value and primary source materials focusing on the Northwest. This rich collection is a valuable resource for researchers, historians and the general public. Of particular note are Congressional and political papers and the Pacific Northwest Artists Archive. Special Collections include such treasures as a 15th century book of hours, a second folio edition of Shakespeare's plays, and a first edition of Samuel Johnson's dictionary.</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

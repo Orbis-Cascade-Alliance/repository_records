@@ -10,7 +10,7 @@
         <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
         <foaf:name>University of Utah Libraries, Special Collections.</foaf:name>
         <foaf:homepage rdf:resource="http://www.lib.utah.edu/collections/special-collections/index.php"/>
-        <vcard:hasEmail rdf:resource="mailto:paul.mogren@utah.edu"/>
+        <vcard:hasEmail rdf:resource="mailto:betsey.welland@utah.edu"/>
         <vcard:hasAddress>
             <rdf:Description>
                 <vcard:street-address>Special Collections, J. Willard Marriott Library</vcard:street-address>

@@ -28,7 +28,7 @@
         </vcard:hasTelephone>
         <vcard:hasTelephone>
             <vcard:Fax>
-                <vcard:hasValue rdf:resource="tel:+5093596456"/>
+                <vcard:hasValue rdf:resource="tel:+5093594840"/>
             </vcard:Fax>
         </vcard:hasTelephone>
         <nwda:visitation>Persons planning an in person research visit are encouraged to contact us before visiting. Currently, our hours of operation are 12:00 Noon - 4:30 PM Monday - Friday during the academic year. We are closed on weekends, holidays observed by the university, and during quarter breaks. Contact information is located at: http://www.ewu.edu/library/services/archives.xml Our digital collections may be accessed at: http://econtent.library.ewu/edu</nwda:visitation>
@@ -37,6 +37,7 @@
         <dcterms:description rdf:resource="http://www.ewu.edu/library/services/about-archives"/>
         <nwda:facsimile xmlns:nwda="https://github.com/ewg118/nwda-editor#"
                         rdf:resource="http://www.ewu.edu/library/services/archives.xml"/>
+        
         <nwda:visitation xmlns:nwda="https://github.com/ewg118/nwda-editor#"
                          rdf:resource="http://www.ewu.edu/library/services/archives.xml"/>
     </arch:Archive>

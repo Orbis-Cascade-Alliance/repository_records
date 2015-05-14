@@ -13,7 +13,7 @@
 		      <vcard:hasEmail rdf:resource="mailto:libspec@uidaho.edu"/>
 		      <vcard:hasAddress>
 			         <rdf:Description>
-				            <vcard:street-address>Special Collections &amp; Archives</vcard:street-address>
+				            <vcard:street-address>Special Collections and Archives</vcard:street-address>
 				            <vcard:street-address>University of Idaho Library</vcard:street-address>
 				            <vcard:street-address>875 Perimeter Drive</vcard:street-address>
 				            <vcard:street-address>MS 2351</vcard:street-address>
@@ -33,10 +33,8 @@
 		      <nwda:facsimile>Special Collections &amp; Archives provides photocopy and scanning services on a case by case basis. Reproduction fees may apply for some uses of materials
 			from the collections. The Fee Schedule is available online: http://www.lib.uidaho.edu/special-collections/spec_documents/DupFeeSchedule.pdf Image duplication request
 			forms are available online: http://www.lib.uidaho.edu/special-collections/spec_documents/ImgDupRequest.pdf</nwda:facsimile>
-		      <dcterms:description>Special Collections &amp; Archives at the University of Idaho Library specializes in the acquisition, preservation, and use of research materials that
-			document the cultural and environmental history of Idaho and the Inland Northwest. The collections include personal papers of individuals and families; business
-			archives of lumber, railroad, mining, and other companies; Idaho state publications; papers of government officials, educators, authors, and business people; records of
-			organizations such as religious, fraternal, civic, and environmental associations; and similar groups. The collection formats include personal papers and archives,
-			photographs, books, serials, reports, maps, blueprints, oral history interviews, and related items.</dcterms:description>
-	   </arch:Archive>
+		      <dcterms:description>Special Collections and Archives at the University of Idaho Library specializes in the acquisition, preservation, and use of research materials that document the cultural and environmental history of Idaho and the Inland Northwest. The collections include personal papers of individuals and families; business archives of lumber, railroad, mining, and other companies; Idaho state publications; papers of government officials, educators, authors, and business people; records of organizations such as religious, fraternal, civic, and environmental associations; and similar groups. The collection formats include personal papers and archives, photographs, books, serials, reports, maps, blueprints, oral history interviews, and related items.</dcterms:description>
+	       <nwda:visitation xmlns:nwda="https://github.com/ewg118/nwda-editor#"
+                         rdf:resource="http://www.lib.uidaho.edu/special-collections/plan.html"/>
+    </arch:Archive>
 </rdf:RDF>
