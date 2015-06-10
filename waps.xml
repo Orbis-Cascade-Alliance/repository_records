@@ -14,7 +14,7 @@
         <vcard:hasAddress>
             <rdf:Description>
                 <vcard:street-address>Manuscripts, Archives, and Special Collections</vcard:street-address>
-                <vcard:street-address>100 Dairy Road</vcard:street-address>
+                
                 <vcard:street-address>Terrell Library 5610</vcard:street-address>
                 <vcard:street-address>Pullman WA</vcard:street-address>
          	      <vcard:postal-code>99164-5610</vcard:postal-code>

@@ -7,8 +7,9 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orfp">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Pacific University, Archives</foaf:name>
-		      <foaf:homepage rdf:resource="http://www.pacificu.edu/library"/>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        <foaf:name>Pacific University, Archives</foaf:name>
+		      <foaf:homepage rdf:resource="http://www.pacificu.edu/libraries/archives"/>
         <vcard:hasEmail rdf:resource="mailto:archives@pacificu.edu"/>
         <vcard:hasAddress>
             <rdf:Description>
@@ -23,8 +24,9 @@
                 <vcard:hasValue rdf:resource="tel:+5033521400"/>
             </vcard:Voice>
         </vcard:hasTelephone>
-        <nwda:visitation>The Pacific University Archives welcomes researchers. We are generally open Monday-Friday during business hours. Please email archives@pacificu.edu for more information or to confirm your visit.</nwda:visitation>
-        <nwda:facsimile>Digital copies of most items are available on request. Please contact archives@pacificu.edu with a description of the desired material for a quote. Some material may be subject to copyright or privacy restrictions.</nwda:facsimile>
+        <nwda:visitation>The Pacific University Archives welcomes researchers. We are generally open Monday-Friday from 9:30-4:30. Because of our small staff, it is a good idea to email us to confirm your visit time before arriving. Please email: archives@pacificu.edu </nwda:visitation>
+        <nwda:facsimile>Digital copies of most items are available on request. Please contact archives@pacificu.edu with a description of the desired material. Some material may be subject to copyright or privacy restrictions.</nwda:facsimile>
         <dcterms:description>The Pacific University Archives houses the permanent records of the university as well as historic primary sources for research and education. As the first chartered university in Oregon, Pacific holds many items related to the early missionaries and pioneers of the region. Highlights include early Oregon manuscripts, a large collection of historic photographs mostly from Washington County, documents related to the Indian Industrial Training School in Forest Grove, the Governor Victor Atiyeh Papers, and other materials dating from the 1830s to the present.</dcterms:description>
-   </arch:Archive>
+        <foaf:thumbnail rdf:resource="http://pacificu.edu/sites/all/themes/activesass/logo.png"/>
+    </arch:Archive>
 </rdf:RDF>
