@@ -10,10 +10,10 @@
 		      <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
 		      <foaf:name>Tacoma Public Library Northwest Room, Special Collections and Archives</foaf:name>
 		      <foaf:homepage rdf:resource="http://www.tplonline.org/Page.aspx?nid=7"/>
-		      <vcard:hasEmail rdf:resource="mailto:jfisher@tacomalibrary.org"/>
+		      <vcard:hasEmail rdf:resource="mailto:nwr@tacomalibrary.org"/>
 		      <vcard:hasAddress>
 			         <rdf:Description>
-				            <vcard:street-address>1102 Tacoma Ave. South</vcard:street-address>
+				            <vcard:street-address>1102 Tacoma Avenue South</vcard:street-address>
 				            <vcard:locality>Tacoma, WA</vcard:locality>
 				            <vcard:postal-code>98402</vcard:postal-code>
 			         </rdf:Description>
