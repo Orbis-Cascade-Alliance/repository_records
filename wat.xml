@@ -9,7 +9,7 @@
 	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#wat">
 		      <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
 		      <foaf:name>Tacoma Public Library Northwest Room, Special Collections and Archives</foaf:name>
-		      <foaf:homepage rdf:resource="http://www.tplonline.org/Page.aspx?nid=7"/>
+		      <foaf:homepage rdf:resource="http://www.tacomalibrary.org/Page.aspx?nid=7"/>
 		      <vcard:hasEmail rdf:resource="mailto:nwr@tacomalibrary.org"/>
 		      <vcard:hasAddress>
 			         <rdf:Description>
@@ -23,5 +23,8 @@
 				            <vcard:hasValue rdf:resource="tel:+2532922001"/>
 			         </vcard:Voice>
 		      </vcard:hasTelephone>
-	   </arch:Archive>
+	       <dcterms:description>The Northwest Room is the Tacoma Public Library’s local history, genealogy, and special collections department dedicated to providing the most comprehensive and accessible South Sound history information available to the public. Collections are focused primarily on materials relating to the history and development of Tacoma and Pierce County. Formats include books and manuscripts; newspapers; original architectural drawings and blueprints; a large photography collection consisting of nearly a million photo prints and negatives showing scenes, events, and people from Tacoma’s past; moving image and audio files; historical maps; posters, and original art. Unique digital content, such as photos, postcards, and subject-based resource citations are accessible through online digital collections and indexes freely available on the Northwest Room website.</dcterms:description>
+        <nwda:facsimile>High resolution copies of images from the Northwest Room’s digital collections are available to order. Contact the Northwest Room for more information: nwr@tacomalibrary.org.</nwda:facsimile>
+        <nwda:visitation>The Northwest Room is open during Tacoma Public Library's Main location regular open hours: http://www.tplonline.org/Page.aspx?hid=44. </nwda:visitation>
+    </arch:Archive>
 </rdf:RDF>
