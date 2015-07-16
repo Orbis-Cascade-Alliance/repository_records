@@ -6,7 +6,7 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#wasmhi">
+   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#wasmhi">
         <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
         <foaf:name>Museum of History &amp; Industry, Sophie Frye Bass Library</foaf:name>
         <foaf:homepage rdf:resource="http://www.mohai.org/research/sophie-frye-bass-library"/>

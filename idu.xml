@@ -6,7 +6,7 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#idu">
+	   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#idu">
 		      <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
         <foaf:name>University of Idaho Library, Special Collections and Archives</foaf:name>
 		      <foaf:homepage rdf:resource="http://www.lib.uidaho.edu/special-collections/index.html"/>

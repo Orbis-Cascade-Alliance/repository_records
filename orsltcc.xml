@@ -6,7 +6,7 @@
          xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/Orbis-Cascade-Alliance/nwda-editor#">
-	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orsltcc">
+	   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#orsltcc">
 		      <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Confederated Tribes of the Siletz, Tribal Cultural Collections</foaf:name>
 		      <foaf:homepage rdf:resource="http://ctsi.nsn.us/"/>
 		      <vcard:hasEmail rdf:resource="mailto:rkentta@ctsi.nsn.us"/>

@@ -6,7 +6,7 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#aku">
+	   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#aku">
 		      <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
 		      <foaf:name>University of Alaska Fairbanks, Elmer E. Rasmuson Library, Alaska and Polar Regions Collections &amp; Archives</foaf:name>
 		      <foaf:homepage rdf:resource="http://library.uaf.edu/apr"/>
