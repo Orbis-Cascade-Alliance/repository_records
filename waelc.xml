@@ -6,11 +6,11 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-	   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#waelc">
+	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#waelc">
         <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
         <foaf:name>Central Washington University, Archives and Special Collections</foaf:name>
         <foaf:homepage rdf:resource="https://www.lib.cwu.edu/Archives-Special-Collections"/>
-        <vcard:hasEmail rdf:resource="mailto:archives@cwu.edu"/>
+        <vcard:hasEmail rdf:resource="mailto:archive@cwu.edu"/>
         <vcard:hasAddress>
             <rdf:Description>
                 <vcard:street-address>Archives and Special Collections</vcard:street-address>
