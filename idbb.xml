@@ -6,10 +6,10 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-	   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#idbb">
+	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#idbb">
         <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
         <foaf:name>Boise State University Library, Special Collections and Archives</foaf:name>
-        <foaf:homepage rdf:resource="http://library.boisestate.edu/special/"/>
+        <foaf:homepage rdf:resource="http://archives.boisestate.edu/"/>
         <vcard:hasEmail rdf:resource="mailto:archives@boisestate.edu"/>
         <vcard:hasAddress>
             <rdf:Description>
@@ -29,8 +29,8 @@
                 <vcard:hasValue rdf:resource="tel:+2083342111"/>
             </vcard:Fax>
         </vcard:hasTelephone>
-        <nwda:visitation rdf:resource="http://library.boisestate.edu/special/usingthecollections.php"/>
-        <nwda:facsimile rdf:resource="http://library.boisestate.edu/special/usingthecollections.php"/>
-        <dcterms:description>Boise State University Special Collections and Archives in Albertsons Library holds more than 300 manuscript collections of letters, journals, diaries, scrapbooks, photographs, and other primary-source materials that document Idaho history, particularly the Boise and Southwest Idaho, Idaho’s past and present political and environmental history, and the literary history of the state. Research topics include politics, environment, Basque culture, filmmaking, literature, ethnicity, gender, music, geosciences, and many others.The University Archives is the repository for university publications and the official records of the President, Faculty Senate, ASBSU, administrative offices, and academic departments. Materials include the student newspaper, university catalogs, budgets, yearbooks, photographs, audio and video, books, posters, and other ephemera. Research topics include faculty, students, campus life, buildings, academic departments, athletics, student organizations, and university departments.</dcterms:description>
+        <nwda:visitation rdf:resource="http://archives.boisestate.edu/usingthecollections.php"/>
+        <nwda:facsimile rdf:resource="http://archives.boisestate.edu/usingthecollections.php"/>
+        <dcterms:description>Boise State University Special Collections and Archives in Albertsons Library holds more than 350 manuscript collections of letters, journals, diaries, scrapbooks, photographs, and other primary-source materials that document Idaho history, particularly the Boise and Southwest Idaho, Idaho’s past and present political and environmental history, and the literary history of the state. Research topics include politics, environment, Basque culture, filmmaking, literature, ethnicity, gender, music, geosciences, and many others.The University Archives is the repository for university publications and the official records of the President, Faculty Senate, ASBSU, administrative offices, and academic departments. Materials include the student newspaper, university catalogs, budgets, yearbooks, photographs, audio and video, books, posters, and other ephemera. Research topics include faculty, students, campus life, buildings, academic departments, athletics, student organizations, and university departments.</dcterms:description>
    </arch:Archive>
 </rdf:RDF>

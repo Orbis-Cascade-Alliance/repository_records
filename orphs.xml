@@ -6,10 +6,11 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-	   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#orphs">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Oregon Health &amp; Science University, Historical Collections &amp; Archives</foaf:name>
+	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#orphs">
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        <foaf:name>Oregon Health &amp; Science University, Historical Collections &amp; Archives</foaf:name>
         <foaf:homepage rdf:resource="http://www.ohsu.edu/xd/education/library/about/collections/historical-collections-archives/"/>
-        <vcard:hasEmail rdf:resource="mailto:homref@ohsu.edu"/>
+        <vcard:hasEmail rdf:resource="mailto:hcaref@ohsu.edu"/>
         <vcard:hasAddress>
             <rdf:Description>
                 <vcard:street-address>OHSU Historical Collections &amp; Archives</vcard:street-address>
