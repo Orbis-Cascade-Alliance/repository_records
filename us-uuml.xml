@@ -6,24 +6,24 @@
          xmlns:arch="http://purl.org/archival/vocab/arch#"
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
-	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#us-uuml">
+	   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#US-uuml">
         <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-        <foaf:name>University of Utah Libraries, Archives and Records Management.</foaf:name>
-        <foaf:homepage rdf:resource="http://www.lib.utah.edu/collections/archives.php"/>
-        <vcard:hasEmail rdf:resource="mailto:david.buhler@utah.edu"/>
+        <foaf:name>University of Utah Libraries, Special Collections.</foaf:name>
+        <foaf:homepage rdf:resource="http://www.lib.utah.edu/collections/special-collections/index.php"/>
+        <vcard:hasEmail rdf:resource="mailto:betsey.welland@utah.edu"/>
         <vcard:hasAddress>
             <rdf:Description>
-                <vcard:street-address>Archives and Records Management</vcard:street-address>
+                <vcard:street-address>Special Collections, J. Willard Marriott Library</vcard:street-address>
                 
                 <vcard:street-address>University of Utah</vcard:street-address>
-                <vcard:street-address>666 Guardsman Way</vcard:street-address>
+                <vcard:street-address>295 South 1500 East</vcard:street-address>
                 <vcard:locality>Salt Lake City, UT</vcard:locality>
-                <vcard:postal-code>84112</vcard:postal-code>
+                <vcard:postal-code>84112-0860</vcard:postal-code>
             </rdf:Description>
         </vcard:hasAddress>
         <vcard:hasTelephone>
             <vcard:Voice>
-                <vcard:hasValue rdf:resource="tel:+8015818242"/>
+                <vcard:hasValue rdf:resource="tel:+8015818863"/>
             </vcard:Voice>
         </vcard:hasTelephone>
         <nwda:visitation>All collections held in Special Collections are available to the public. The department's finding aids are accessible online. Special Collections holdings do not circulate, often because of the rarity or value of the item, but primarily to ensure that researchers will have ready access to them. Professional librarians and archivists are available to assist users. The Special Collections Reading Room is open 8:00 AM - 6:00 PM Monday – Friday and 9:15 AM - 6:00 PM on Saturdays. These hours can change due to federal and state holidays or during semester breaks. For further information please review our current hours at http://www.lib.utah.edu/collections/special-collections/index.php</nwda:visitation>
