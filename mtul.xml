@@ -13,8 +13,6 @@
         <vcard:hasEmail rdf:resource="mailto:library.archives@umontana.edu"/>
         <vcard:hasAddress>
             <rdf:Description>
-                <vcard:street-address>Archives and Special Collections</vcard:street-address>
-                <vcard:street-address>Maureen and Mike Mansfield Library</vcard:street-address>
                 <vcard:street-address>University of Montana</vcard:street-address>
                 <vcard:street-address>32 Campus Dr. #9936</vcard:street-address>
                 
