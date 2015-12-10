@@ -7,21 +7,22 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#wabewwuh">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/><foaf:name>Western Washington University, Heritage Resources</foaf:name>
+        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        <foaf:name>Western Washington University, Western Libraries Heritage Resources</foaf:name>
         <foaf:homepage rdf:resource="http://www.library.wwu.edu/heritageresources"/>
         <vcard:hasEmail rdf:resource="mailto:Heritage.Resources@wwu.edu"/>
         <vcard:hasAddress>
             <rdf:Description>
-                <vcard:street-address>Center for Pacific Northwest Studies</vcard:street-address>
-                <vcard:street-address>Goltz-Murray Building</vcard:street-address>
-                <vcard:street-address>808 25th St</vcard:street-address>
-                <vcard:street-address>Bellingham, WA</vcard:street-address>
-         	      <vcard:postal-code>98225-9123</vcard:postal-code>
+                <vcard:street-address>516 High St</vcard:street-address>
+                
+                <vcard:street-address>Bellingham WA</vcard:street-address>
+                
+         	      <vcard:postal-code>98225-9103</vcard:postal-code>
             </rdf:Description>
         </vcard:hasAddress>
         <vcard:hasTelephone>
             <vcard:Voice>
-                <vcard:hasValue rdf:resource="tel:+3606507747"/>
+                <vcard:hasValue rdf:resource="tel:+3606507534"/>
             </vcard:Voice>
         </vcard:hasTelephone>
         <nwda:facsimile>For more information about this resource or to request copies, please contact heritage.resources@wwu.edu</nwda:facsimile>
