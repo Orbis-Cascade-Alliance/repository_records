@@ -7,7 +7,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#watu">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        
         <foaf:name>University of Puget Sound, Archives &amp; Special Collections</foaf:name>
         <foaf:homepage rdf:resource="http://www.pugetsound.edu/academics/academic-resources/collins-memorial-library/archives/"/>
         <vcard:hasEmail rdf:resource="mailto:archives@pugetsound.edu"/>

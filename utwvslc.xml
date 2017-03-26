@@ -7,7 +7,7 @@
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
          xmlns:nwda="https://github.com/Orbis-Cascade-Alliance/nwda-editor#">
 	   <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#utwvslc">
-		      <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+		      
 		      <foaf:name>Salt Lake County Archives</foaf:name>
 		      <foaf:homepage rdf:resource="http://http://admin.slco.org/archives/"/>
 		      <vcard:hasEmail rdf:resource="mailto:archives@slco.org"/>

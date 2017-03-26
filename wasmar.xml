@@ -7,7 +7,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
    <arch:Archive rdf:about="http://archiveswest.orbiscascade.org/contact#wasmar">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        
         <foaf:name>Seattle Municipal Archives</foaf:name>
         <foaf:homepage rdf:resource="http://www.seattle.gov/cityarchives/"/>
         <vcard:hasEmail rdf:resource="mailto:archives@seattle.gov"/>

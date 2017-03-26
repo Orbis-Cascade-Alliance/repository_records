@@ -7,7 +7,7 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 	   <arch:Archive rdf:about="http://nwda.orbiscascade.org/contact#US-utslumla">
-        <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+        
         <foaf:name>University of Utah Libraries, University Archives and Records Management</foaf:name>
         <foaf:homepage rdf:resource="http://www.lib.utah.edu/collections/archives.php"/>
         <vcard:hasEmail rdf:resource="mailto:david.buhler@utah.edu"/>
